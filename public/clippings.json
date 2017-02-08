@@ -1,5 +1,10 @@
-{
+[{
     "book": "test",
     "creation_date": "2 May 2015 23:36:51",
     "body": "Write operations are atomic, only one write at a time, at the document level in MongoDB. This means that only one process can be updating a single document or a single collection at a time. Therefore, writing to documents that are denormalized is atomic."
-}
+},
+{
+    "book": "Wszystko Za Zycie (Jon Krakauer)",  
+    "creation_date": "10 August 2015 01:46:20",
+    "body": "Pragnąłem ruchu, a nie spokojnie toczącej się egzystencji. Pragnąłem podniety i niebezpieczeństwa, i okazji do poświęcenia się dla miłości. Czułem w sobie nadmiar energii, która nie miała ujścia w naszym spokojnym życiu. Lew Tołstoj, „Szczęście rodzinne”"
+}]
