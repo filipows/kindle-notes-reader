@@ -8,17 +8,15 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      books: []
+      highlights: []
     };
   }
 
   componentDidMount() {
-    let books;
     fetch('http://localhost:3000/clippings.json')
       .then((response) => response.json())
-      .then((responseJson) => {
-        this.setState({books: responseJson})
-        books = responseJson;
+      .then((highlights) => {
+        this.setState({highlights})
       })
       .catch((error) => {
         console.error(error);
@@ -26,24 +24,42 @@ class App extends Component {
   }
 
   render() {
-    let highlight = this.state.books[0];
     return (
       <div>
-      <div className="App">
-        Nazwa ksiązki: {highlight && highlight.book}<br/>
-        Data utworzenia: {highlight && highlight.creation_date}<br/>
-        Cytat: {highlight && highlight.body}<br/>
-      </div>
-
-      <Table
-              rowsCount={100}
-              rowHeight={50}
+        <Table
+              rowsCount={this.state.highlights.length}
+              rowHeight={100}
+              headerHeight={50}
               width={1000}
-              height={500}>
+              maxHeight={500}>
               <Column
-                cell={<Cell>Basic content</Cell>}
+                header={<Cell>Book</Cell>}
+                cell={props => (
+                  <Cell {...props}>
+                    {this.state.highlights[props.rowIndex].book}
+                  </Cell>
+                )}
                 width={200}
               />
+              <Column
+                header={<Cell>Date</Cell>}
+                cell={props => (
+                  <Cell {...props}>
+                    {this.state.highlights[props.rowIndex].creation_date}
+                  </Cell>
+                )}
+                width={200}
+              />
+              <Column
+                header={<Cell>Highlight</Cell>}
+                cell={props => (
+                  <Cell {...props}>
+                    {this.state.highlights[props.rowIndex].body}
+                  </Cell>
+                )}
+                width={600}
+              />
+
             </Table>
         </div>
     );
