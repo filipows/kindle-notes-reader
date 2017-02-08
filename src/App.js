@@ -10,7 +10,7 @@ class App extends Component {
     this.state = {
       highlights: []
     };
-  }
+  } 
 
   componentDidMount() {
     fetch('http://localhost:3000/clippings.json')
