@@ -1,0 +1,2511 @@
+﻿Node.js, MongoDB, and AngularJS Web Development (Developer's Library) (Brad Dayley)
+- Your Bookmark at location 1878 | Added on Thursday, 30 April 2015 07:29:42
+
+
+==========
+﻿Node.js, MongoDB, and AngularJS Web Development (Developer's Library) (Brad Dayley)
+- Your Highlight at location 4049-4051 | Added on Saturday, 2 May 2015 23:36:51
+
+Write operations are atomic, only one write at a time, at the document level in MongoDB. This means that only one process can be updating a single document or a single collection at a time. Therefore, writing to documents that are denormalized is atomic.
+==========
+﻿Node.js, MongoDB, and AngularJS Web Development (Developer's Library) (Brad Dayley)
+- Your Note at location 4051 | Added on Saturday, 2 May 2015 23:37:46
+
+atomicity
+==========
+﻿Practical_AngularJS (Chris)
+- Your Bookmark at location 1392 | Added on Saturday, 16 May 2015 19:34:19
+
+
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Bookmark at location 1362 | Added on Tuesday, 16 June 2015 07:20:15
+
+
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Bookmark at location 1334 | Added on Tuesday, 16 June 2015 07:20:34
+
+
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Bookmark at location 1233 | Added on Tuesday, 16 June 2015 07:22:30
+
+
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Highlight at location 1234-1237 | Added on Tuesday, 16 June 2015 07:24:05
+
+ Tworzony jest nowy pusty obiekt.  Obiekt ten jest przekazywany do konstruktora jako parametrthis, przez co staje się kontekstem funkcji konstruktora.  W przypadku braku jakiejkolwiek jawnej wartości zwracanej jako wartość konstruktora zwracany jest nowy obiekt.
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Highlight at location 1165-1168 | Added on Tuesday, 16 June 2015 07:25:36
+
+Je śli masz doświadczenie z zakresu programowania obiektowego, pewnie wiesz, że obiekt, do którego należy metoda, jest dostępny w jej obrębie jako parametr this. To samo ma miejsce w tym przypadku. Po wywołaniu funkcji jako metody obiektu obiekt ten staje się kontekstem funkcji, który jest dostępny w obrębie funkcji za pośrednictwem parametruthis.
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Bookmark at location 1164 | Added on Tuesday, 16 June 2015 07:25:51
+
+
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Highlight at location 1142-1143 | Added on Tuesday, 16 June 2015 07:27:07
+
+Oznacza to, że w języku JavaScript to, na co wskazuje parametr this, nie jest, w przeciwieństwie do języka Java, definiowane według sposobu deklarowania funkcji, lecz w oparciu o sposób jej wywoływania.
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Highlight at location 1156-1156 | Added on Tuesday, 16 June 2015 07:29:35
+
+Po wywo łaniu funkcji w ten sposób jej kontekst jest kontekstem globalnym, czyli obiektem window.
+==========
+tajemnice-javascriptu-podrecznik-ninja-john-resig-bear-bibeault-Helion.pl (1) (krzysztof.nsn@gmail.com)
+- Your Highlight at location 1380-1384 | Added on Wednesday, 17 June 2015 08:21:14
+
+Funkcje mogą być wywoływane na różne sposoby, a mechanizm wywoływania określa wartość kontekstu funkcji:  w przypadku wywołania funkcji jako prostej funkcji kontekstem jest obiekt globalny (window),  w przypadku wywołania funkcji jako metody kontekstem jest obiekt będący właścicielem metody,  w przypadku wywołania funkcji jako konstruktora kontekstem jest nowo przydzielony obiekt,  w przypadku wywołania funkcji za pomocą metod funkcjiapply() lub call() kontekstem może być dowolna żądana rzecz.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 201-204 | Added on Monday, 10 August 2015 01:09:02
+
+Pragnąłem ruchu, a nie spokojnie toczącej się egzystencji. Pragnąłem podniety i niebezpieczeństwa, i okazji do poświęcenia się dla miłości. Czułem w sobie nadmiar energii, która nie miała ujścia w naszym spokojnym życiu. Lew Tołstoj, „Szczęście rodzinne”
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 335-335 | Added on Monday, 10 August 2015 01:35:35
+
+Samotni; nie, aby uciec, lecz by odnaleźć rzeczywistość.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 370-371 | Added on Monday, 10 August 2015 01:43:12
+
+Mccandless rozłożył namiot w wątłym cieniu tamaryszka i upajał się nowo odkrytą wolnością.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 384-385 | Added on Monday, 10 August 2015 01:46:20
+
+kieruje się przepisami wyższego rzędu, że jako świeży wyznawca Henry’ego Davida Thoreau traktuje jak Biblię jego esej „On the Duty of Civil Disobedience”(„O obowiązku nieposłuszeństwa społecznego”) i uznaje za swój nakaz moralny lekceważyć prawa stanowe.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 388-390 | Added on Monday, 10 August 2015 01:48:28
+
+Zamiast czuć się przygnębiony takim obrotem sprawy, McCandless był uszczęśliwiony. Zalanie stało się okazją do pozbycia się niepotrzebnego bagażu.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 420-421 | Added on Monday, 10 August 2015 01:52:08
+
+Kiedy nas opuścił, nie spodziewaliśmy się żadnego kontaktu, ale przez następne dwa lata przysyłał nam kartki co miesiąc lub dwa.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 2284-2284 | Added on Monday, 10 August 2015 01:56:17
+
+alaskańska odyseja”.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Bookmark at location 417 | Added on Monday, 10 August 2015 01:58:38
+
+
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 312-313 | Added on Monday, 10 August 2015 01:59:38
+
+Chris mieszkał poza terenami uniwersytetu, jak mnich, w małym pokoju wyposażonym w zasadzie tylko w cienki materac na podłodze, skrzynki po butelkach i stół. Utrzymywał tam nienaganny porządek, jak w koszarach. I nie miał telefonu,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Bookmark at location 313 | Added on Monday, 10 August 2015 02:04:32
+
+
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 424-425 | Added on Monday, 10 August 2015 02:18:37
+
+Był niezauważony, szczęśliwy i bliski prawie dzikiego życia. Był sam, młody, uparty i szalony, samotny wśród rozległych połaci dzikości, powietrza i słonawej wody, obfitości muszelek, wszelkiej plątaniny i zamglonego szarego słońca.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 437-438 | Added on Monday, 10 August 2015 02:23:40
+
+Chris wyznawał pogląd, że nie należy posiadać więcej, niż się udźwignie na plecach.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Bookmark at location 456 | Added on Monday, 10 August 2015 02:30:37
+
+
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Bookmark at location 417 | Added on Monday, 10 August 2015 02:31:37
+
+
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Bookmark at location 417 | Added on Monday, 10 August 2015 02:31:59
+
+
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 463-464 | Added on Monday, 10 August 2015 02:34:59
+
+Wayne, naprawdę powinieneś przeczytać „Wojnę i pokój”. Rzeczywiście uważam, jak ci mówiłem, że masz chyba najlepszy charakter - z ludzi, jakich znam. To bardzo ważna i sym-boliczna książka. Są w niej sprawy, które, jak myślę, ty zrozumiesz.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 520-521 | Added on Monday, 10 August 2015 02:43:53
+
+Czy to jest ten sam Alex, który wyruszył w lipcu 1990 roku? Niedożywienie i życie w drodze zostawiły piętno na jego ciele. Stracił ponad 11 kilo. Ale jego duch żyje pełnią życia.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 518-519 | Added on Monday, 10 August 2015 02:44:09
+
+czuje się już teraz bardzo źle w spo- łeczeństwie i musi natychmiast wracać na drogę.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 545-546 | Added on Monday, 10 August 2015 02:48:20
+
+stronnikowi Thoreau i Tołstoja, pogardzającemu burżuazyjnym blichtrem głównego nurtu życia w Ameryce.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 564-565 | Added on Monday, 10 August 2015 02:52:51
+
+ale zawsze pracował w tym samym wolnym tempie, nawet w porze obiadowej, choćby był nie wiem jaki ruch. Klienci tłoczyli się przy ladzie, a on nie rozumiał, o co im chodzi. Jakby tkwił w jakimś własnym świecie.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 568-569 | Added on Monday, 10 August 2015 02:53:08
+
+Kiedy z kimś rozmawiał, to zawsze o jakichś drzewach, przyrodzie i innych dziwactwach.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 568-569 | Added on Monday, 10 August 2015 02:53:37
+
+Kiedy z kimś rozmawiał, to zawsze o jakichś drzewach, przyrodzie i innych dziwactwach. Wszyscy uważaliśmy, że przydałoby mu się przelecieć jakąś panienkę.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 605-606 | Added on Monday, 10 August 2015 02:59:52
+
+znudziło go odbijanie karty zegarowej, znudzili „plastikowi ludzie”, z którymi pracował,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 607-607 | Added on Monday, 10 August 2015 03:08:06
+
+Slabs,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 609-609 | Added on Monday, 10 August 2015 03:08:29
+
+Slabs funkcjonuje jako sezonowa stolica społeczności wędrujących
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 617-620 | Added on Monday, 10 August 2015 03:14:47
+
+Próbował przekonać każdego ćpuna, że musi przeczytać „Zew krwi”. McCandless był oczarowany Londonem od dzieciństwa. Krytyka społeczeństwa kapitalistycznego, gloryfikacja świata pierwotnych instynktów, obrona wspaniałych brudasów - wszystko to doskonale odzwierciedlało pasje Chrisa. Zafascynowany opisywanym przez Londona życiem na Alasce i Yukonie, czytał wciąż na nowo „Zew krwi”, „Biały kieł”, „Północną Odyseję”.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 640-642 | Added on Monday, 10 August 2015 03:17:36
+
+Co rano ćwiczył calisthenics, żeby być w formie do tej głuszy, i omawiał strategie przetrwania z Bobem, który miał swoje własne sposoby.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 630-633 | Added on Monday, 10 August 2015 03:18:11
+
+Wśród ludzi świetnie się bawił, naprawdę doskonale. Na naszym jarmarku gadał i gadał ze wszystkimi przechodzącymi. Poznał chyba kilkadziesiąt osób w Niland i odnosił się do wszystkich bardzo przyjacielsko. Czasami potrzebował samotności, ale nie był pustelnikiem. Bardzo się udzielał towarzysko. Czasem myślę, że gromadził sobie to na zapas, na czasy, kiedy nikogo wokół niego nie będzie.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 661-664 | Added on Monday, 10 August 2015 03:22:53
+
+Nikt nigdy nie szedł za swym dobrym duchem aż do końca. Rezultatem mogła być słabość ciała, lecz chyba nikt nie mógł powiedzieć, że tego żałuje, bo zyskiwał życie w zgodzie z zasadami wyższego rzędu. Jeśli witasz dzień i noc z radością, a życie ma woń kwiatów i słodko pachnących ziół, jest bardziej płynne, gwiaździste, nieśmiertelne - to jest twój sukces.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 808-809 | Added on Monday, 10 August 2015 11:11:01
+
+Święcie Tęczy
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 818-823 | Added on Monday, 10 August 2015 11:13:39
+
+w rzeczywistości nie ma rzeczy bardziej niszczącej dla niespokojnego ducha niż pewna przyszłość. Podstawą życia ducha ludzkiego jest jego pasja przygody. Radość życia przychodzi z nowymi doświadczeniami, a zatem nie ma większej radości niż mieć wciąż zmieniający się horyzont, każdego dnia inny, i nowe słońce. Jeśli chcesz więcej dostać od życia, Ron, musisz zrezygnować z zamiłowania do bezpieczeństwa i żyć na łapu-capu, co z początku wyda ci się wariactwem. Ale kiedy przywykniesz do takiego stylu, zrozumiesz jego znaczenie i niezwykle piękno.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 828-829 | Added on Monday, 10 August 2015 13:19:39
+
+Nie siedź w jednym miejscu. Ruszaj się, bądź nomadem, oglądaj codziennie inny horyzont.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 830-833 | Added on Monday, 10 August 2015 13:20:44
+
+Mylisz się, sądząc, że Radość rodzi się tylko - lub głównie - ze stosunków międzyludzkich. Bóg umieścił ją wokół nas. Jest we wszystkim, w czymkolwiek, czego możemy doznawać. Musimy tylko mieć odwagę zwrócić się przeciwko przyzwyczajeniom i oddać się życiu niekonwencjonalnemu.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 834-835 | Added on Monday, 10 August 2015 13:21:16
+
+Jedyną osobą, z którą musisz walczyć, jesteś ty i twój opór przed angażowaniem się w coś nowego.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 838-839 | Added on Monday, 10 August 2015 13:21:47
+
+Musisz to robić oszczędnie; żadne motele, gotuj sam, wydawaj jak najmniej i będzie cię to znacznie bardziej cieszyło.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 840-841 | Added on Monday, 10 August 2015 13:22:02
+
+Po prostu wyjedź i zrób to. Po prostu wyjedź.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 880-887 | Added on Monday, 10 August 2015 13:29:10
+
+Prawdą jest, że wielu twórczym ludziom nie udaje się wejść w dojrzałe związki osobiste i są bardzo wyizolowani. Jest również prawdą, że w niektórych wypadkach traumatyczne wydarzenia, jak opuszczenie przez rodziców czy wczesne osierocenie, u potencjalnie twórczej osoby rozwijają takie aspekty osobowości, które mogą się zrealizować w izolacji. Nie oznacza to jednak, że samotne, twórcze cele są patologiczne. Zachowanie unikające jest reakcją, mającą na celu ochronę dziecka przed behawioralną dezorganizacją. Jeśli odniesiemy to do życia dorosłych, możemy zaobserwować, że unikające bliskich kontaktów dziecko może wyrosnąć na osobę, której zasadniczą potrzebą jest znalezienie w życiu jakiegoś sensu i porządku, niekoniecznie opartego na stosunkach międzyludzkich. Anthony Storr, „Samotność: Powrót do siebie”
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 942-943 | Added on Monday, 10 August 2015 13:37:51
+
+parę razy wspominał, że chciałby się ożenić i mieć rodzinę. Dało się spostrzec, że nie traktuje tych spraw lekko. Nie był facetem, który sobie poderwie dziewczynę tylko po to, żeby się z nią przespać.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 953-954 | Added on Monday, 10 August 2015 13:39:14
+
+„Sonata Kreutzerowska” Tołstoja, w której ten arystokrata zmieniony w ascetę wypowiada się przeciwko „żądaniom ciała”.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 956-957 | Added on Monday, 10 August 2015 13:40:08
+
+Czystość jest największym rozkwitem człowieka, a to, co nazywamy Geniuszem, Heroizmem, Świętością i tak dalej, to zaledwie owoce, następujące po niej.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 967-968 | Added on Monday, 10 August 2015 13:41:59
+
+Miałem wrażenie, że ta eskapada na Alaskę miała być jego ostatnią wielką przygodą - opowiada Westerberg - i że się potem gdzieś osiedli.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 995-996 | Added on Monday, 10 August 2015 13:44:41
+
+Każdy obrazek, który wyrył w skórze, miał swoją długą historię.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 984-984 | Added on Monday, 10 August 2015 13:47:10
+
+Wciąż wracał do Marka Twaina.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1017-1018 | Added on Monday, 10 August 2015 14:17:29
+
+wyjeżdżanie ze swymi ranami do głuszy, żeby się uleczyć, przemienić, odpocząć.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1036-1039 | Added on Monday, 10 August 2015 14:26:01
+
+Przez ostatnich piętnaście lat spotkałem wielu typów z rodzaju McCandlessa. Zawsze ta sama historia: idealiści, pełni energii faceci, którzy przeceniają siebie, nie doceniają przyrody, i kończy się kłopotami. McCandless nie był wyjątkowy; kręci się po tym stanie sporo facetów tak podobnych, że tworzą właściwie zespołowy banalny portret.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1090-1096 | Added on Monday, 10 August 2015 14:45:28
+
+ćwiczeniem calisthenics, podnoszeniem ciężarów i bieganiem, często dźwigając na plecach kamienie. W lecie pokonywał przeciętnie trzydzieści dwa kilometry dziennie. Rosellini eksperymentował ponad dziesięć lat, aż w końcu poczuł, że znalazł odpowiedź na pytanie, które go inspirowało. Tak pisze o tym w liście do przyjaciela: Rozpocząłem swe dorosłe życie hipotezą, że można słać się rówieśnikiem epoki kamiennej. Ponad trzydzieści lat nastawiałem się na zrealizowanie tego. W ciągu ostatnich dziesięciu z tych lat praktycznie doświadczyłem fizycznej, umysłowej i emocjonalnej rzeczywistości epoki kamiennej. Ale - cytując powiedzenie buddystów - w końcu nastąpiło zetknięcie twarzą w twarz z czystą rzeczywistością. Przekonałem się, że nie jest możliwe, aby istoty ludzkie, jakimi je obecnie znamy, wyżyły z darów natury.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1179-1180 | Added on Monday, 10 August 2015 15:44:31
+
+13.03.81. Mój ostatni pocałunek, godz. 13.42
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1295-1295 | Added on Friday, 14 August 2015 10:40:05
+
+Sław każdą godzinę.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1317-1317 | Added on Friday, 14 August 2015 10:43:47
+
+A Vagabond for Beauty”
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1307-1307 | Added on Friday, 14 August 2015 10:44:36
+
+„nieopierzonym romantykiem, młodocianym estetą, atawistycznym bywalcem pustkowi”:
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1321-1324 | Added on Friday, 14 August 2015 10:47:48
+
+Coraz częściej myślę o tym, że powinienem na zawsze pozostać samotnym wędrowcem w dzikich krainach. Boże, jak mnie urzeka droga. Nie potrafisz zrozumieć, jak jest dla mnie fascynująca. Samotny szlak jest najlepszy... Nigdy nie przestanę wędrować. A kiedy przyjdzie pora umrzeć, znajdę najdziksze, najbardziej samotne i odosobnione miejsce.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1374-1374 | Added on Friday, 14 August 2015 10:59:03
+
+„Dwadzieścia tysięcy mil podmorskiej żeglugi”,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1413-1414 | Added on Friday, 14 August 2015 11:24:31
+
+Te niezwykłe podróże podejmowali anachoreci zwykle z chęci znalezienia odosobnionych miejsc, gdzie mogliby zamieszkać w spokoju, bez zawirowań i pokus tego świata.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1430-1431 | Added on Friday, 14 August 2015 11:27:03
+
+„The New York Times” 13 września, 1992
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1451-1452 | Added on Friday, 14 August 2015 11:37:33
+
+13 września jechał pustą szosą w pobliżu Jamestown w Dakocie Północnej,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1631-1635 | Added on Friday, 14 August 2015 16:18:04
+
+wyjaśnia Gordy Cucullu, młodszy członek zespołu. - Chris wymyślił program, który nazwał Rycerze Dróg. Prowadził nas na długie, koszmarnie trudne trasy przez jakieś pola uprawne i tereny budowy, gdzie nie wolno było wchodzić, i starał się, żebyśmy się zgubili. Biegliśmy tak daleko i szybko, jak mogliśmy, nieznanymi drogami, przez lasy, na oślep. Chodziło o to, żeby stracić orientację, wkroczyć na nieznany teren. Później poruszaliśmy się nieco wolniej, aż znaleźliśmy jakąś znajomą drogę i wtedy znów tempo, aż do domu.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1635-1636 | Added on Friday, 14 August 2015 16:18:38
+
+McCandless traktował bieganie jak intensywne ćwiczenie duchowe, graniczące z religią.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1663-1667 | Added on Friday, 14 August 2015 16:22:33
+
+„Wiesz, Eric, o takich rzeczach się czyta, ale nie zrozumiesz, póki tego nie przeżyjesz. Dzisiaj wieczorem właśnie to przeżyjemy”. Następnych kilka godzin spędziliśmy, kręcąc się po podejrzanych miejscach, gadając z alfonsami, dziwkami i marginesem. Bałem się jak diabli. Pod koniec wieczoru Chris spytał, ile mam pieniędzy. Powiedziałem, że pięć dolarów. „Dobra, ty kupujesz benzynę, a ja jakieś jedzenie”. Wydał dziesięć dolców na wielką torbę hamburgerów i jeździliśmy, rozdając je jakimś śmierdzącym facetom, śpiącym na kratach.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1669-1670 | Added on Friday, 14 August 2015 16:23:04
+
+Chris odpowiedział, że kariery są poniżającym wymysłem dwudziestego wieku,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1691-1691 | Added on Friday, 14 August 2015 16:25:59
+
+wyznawca idei Tołstoja, wierzył, że bogactwo to coś wstydliwego, niszczącego, zło wcielone,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1710-1712 | Added on Sunday, 16 August 2015 18:53:19
+
+Dajcie mi prawdę raczej niż miłość, niż pieniądze, niż sławę. Siedziałem przy stole, suto nakrytym, gdzie było pod dostatkiem jedzenia i wina, i staranna obsługa, ale prawdy tam nie było. Odszedłem głodny od niegościnnego stołu. Atmosfera była zimna jak lód. Henry David Thoreau, „Walden, czyli życie w lesie”
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 1803-1803 | Added on Monday, 17 August 2015 09:03:04
+
+„Ten rząd jest najlepszy, który rządzi najmniej”.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 2357-2357 | Added on Saturday, 22 August 2015 07:34:52
+
+Thoreau, Tołstoja i Gogola, ale również książki popularne - Michaela Crichtona, Roberta Pirsiga i Louisa EAmoura,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 2471-2476 | Added on Saturday, 22 August 2015 07:52:41
+
+„Szczęście rodzinne” Tołstoja, zaznaczając fragmenty, które go szczególnie poruszyły: Miał rację, mówiąc, że jedyne pewne szczęście w życiu to życie dla innych... Przeżyłem wiele, ale myślę, że teraz już wiem, czego trzeba do szczęścia. Ciche, spokojne życie na wsi, bycie w miarę możności użytecznym dla ludu, któremu łatwo dogodzić i który nie jest tego zwyczajny; dalej praca, która - miejmy nadzieję - będzie w jakiś sposób potrzebna; potem reszta, przyroda, książki, muzyka, miłość bliźniego - taka jest moja wizja szczęścia. A potem, na dodatek, ty jako mąż, może dzieci - czego więcej może ludzkie serce pragnąć?
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 2735-2735 | Added on Saturday, 22 August 2015 10:08:36
+
+„Doktora Żywago”,
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 2748-2748 | Added on Saturday, 22 August 2015 10:08:50
+
+Szczęście prawdziwe, tylko gdy dzielone.
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 2897-2898 | Added on Sunday, 23 August 2015 08:33:30
+
+Po drugiej, pustej stronie kartki McCandless umieścił krótkie pożegnanie: Miałem szczęśliwe życie i dzięki Ci, Panie. Do widzenia i niech Bóg was wszystkich błogosławi!
+==========
+Wszystko Za Zycie (Jon Krakauer)
+- Your Highlight at location 2897-2898 | Added on Sunday, 23 August 2015 08:56:54
+
+Miałem szczęśliwe życie i dzięki Ci, Panie. Do widzenia i niech Bóg was wszystkich błogosławi!
+==========
+Diary (KF)
+- Your Highlight on page 27 | location 407-407 | Added on Monday, 24 August 2015 12:46:57
+
+social music clubu,
+==========
+Diary (KF)
+- Your Highlight on page 30 | location 449-450 | Added on Monday, 24 August 2015 12:52:59
+
+Uwaga, obwieszczam co to znaczy, że sespół jest niezależny. Otóż jest to zespół na którym nikomu nie zależy :D
+==========
+Diary (KF)
+- Your Highlight on page 34 | location 507-508 | Added on Monday, 24 August 2015 13:00:50
+
+"Przyszłość należy do tych, którzy wierzą w piękno swoich marzeń"     Eleneor Roosvelt
+==========
+Diary (KF)
+- Your Highlight on page 49 | location 746-748 | Added on Monday, 24 August 2015 13:26:27
+
+Stały 3 żabki nad brzegiem stawu. Jedna z nich pomyślała, żeby wskoczyć do stawu. Ile żabek zostało na brzegu ? 3, bo na myśleniu się skończyło
+==========
+Diary (KF)
+- Your Highlight on page 92 | location 1410-1413 | Added on Monday, 24 August 2015 17:22:07
+
+10% - oszczędności, odkładanie 10% - rozrywka, przyjemności, szaleństwa 55% - zaspokojenie bieżących potrzeb życiowych 10% - inwestycje w siebie (literatura, kursy, szkolenia itp.) 10% - długoterminowe oszczędzanie na przyszłe wydatki (np. Telewizor, samochód) 5%  - pomoc innym ludziom
+==========
+Diary (KF)
+- Your Highlight on page 141 | location 2161-2162 | Added on Monday, 24 August 2015 19:05:00
+
+Żeby coś się zdarzyło Żeby mogło się zdarzyć I zjawiła się miłość Trzeba marzyć
+==========
+Diary (KF)
+- Your Highlight on page 142 | location 2165-2165 | Added on Monday, 24 August 2015 19:07:04
+
+I abyś nigdy nic nie musiał!
+==========
+Diary (KF)
+- Your Highlight on page 146 | location 2234-2235 | Added on Tuesday, 25 August 2015 12:47:19
+
+Zamiast zastanawiac się co powinniśmy teraz zrobić, należy pomyśleć co teraz chciałbym zrobić.
+==========
+Diary (KF)
+- Your Highlight on page 155 | location 2373-2373 | Added on Tuesday, 25 August 2015 13:23:00
+
+Life is what you make it.
+==========
+Diary (KF)
+- Your Highlight on page 175 | location 2676-2676 | Added on Tuesday, 25 August 2015 14:24:40
+
+"Wolność to wszystko, miłość to cała reszta".
+==========
+Diary (KF)
+- Your Highlight on page 178 | location 2715-2716 | Added on Tuesday, 25 August 2015 15:28:20
+
+"Czemu ja mam chcieć spędzać czas z kimś kto nie chce tego czasu spędzać ze mną"
+==========
+Diary (KF)
+- Your Highlight on page 179 | location 2743-2744 | Added on Tuesday, 25 August 2015 15:31:03
+
+"Daj każdemu dniu szansę stania się najpiękniejszym" Ang. "Give every day the chance to become the most beautiful day of your life"
+==========
+Diary (KF)
+- Your Highlight on page 180 | location 2749-2749 | Added on Tuesday, 25 August 2015 15:31:40
+
+Róbmy w życiu to na co mamy ochoę, o czym marzyliśmy, co nam imponuje, nakręca nas i daje nam moc.
+==========
+Diary (KF)
+- Your Highlight on page 180 | location 2753-2754 | Added on Tuesday, 25 August 2015 15:32:11
+
+Aby odnaleźć siebie dużo podróżuj, zwiedzaj, poznawaj wielu ludzi, inne kultury, próbuj różnych stylów życia, eksperymentuj.
+==========
+Diary (KF)
+- Your Highlight on page 180 | location 2754-2754 | Added on Tuesday, 25 August 2015 15:32:24
+
+Stay hungry.
+==========
+Diary (KF)
+- Your Highlight on page 180 | location 2754-2755 | Added on Tuesday, 25 August 2015 15:32:30
+
+Pozostań ciekawy.
+==========
+Diary (KF)
+- Your Highlight on page 180 | location 2755-2755 | Added on Tuesday, 25 August 2015 15:32:35
+
+"Tak się złożyło, że jestem i patrzę"
+==========
+Diary (KF)
+- Your Highlight on page 181 | location 2762-2763 | Added on Tuesday, 25 August 2015 15:34:05
+
+Czuję, że niedługo wsiąde w wehikuł życia i obudzę się za 10 lat i
+==========
+Diary (KF)
+- Your Highlight on page 181 | location 2766-2767 | Added on Tuesday, 25 August 2015 15:34:28
+
+podróżować, mieć ciekawe przygody, poznawać dużo ludzi, eksperymentować, kochać…
+==========
+Diary (KF)
+- Your Highlight on page 182 | location 2781-2784 | Added on Tuesday, 25 August 2015 15:35:56
+
+Mężczyzna gdy ogląda się za kobietą chce iść za Nią, kobieta jednak za mężczyzna pójdzie tylko wtedy, gdy ten nie poświęcając Jej nawet jednego spojrzenia, podąża niewzruszenie w swoim kierunku."
+==========
+Diary (KF)
+- Your Highlight on page 183 | location 2792-2797 | Added on Tuesday, 25 August 2015 15:37:56
+
+Widzisz przecież, że na Ciebie nie krzyczę. Nie mam pretensji ani żalu. Wiesz zasem to jes ttak, że kiedy ludzie się spotykają, są ze sobą, dobrez się czują w swoim towarzystwie, a czasem do tego stopnia, że nic poza nimi się nie liczy jesteś tylko Ty i ta osoba. To nawet po wielu latach kiedy Ty już będziesz z kimś i ja będę miał żonę i dzieczi. To będziesz wracać wspomnieniami do tych chwil, bo w życiu tak jak my się kochamy kocha się tylko raz. Dostaliśmy ogromną szansę od zycia, szansę która zdarza się raz na milion. Dziękuję Ci że mogłem spotkać Cię na swojej drodze. Dziękuję Ci za te wszystkie wspaniałe chwile, szkoda, że tak krótko trwały. '--
+==========
+Diary (KF)
+- Your Highlight on page 185 | location 2835-2835 | Added on Tuesday, 25 August 2015 15:39:49
+
+czy czuje motyle w brzuszku…
+==========
+Diary (KF)
+- Your Highlight on page 345 | location 5281-5281 | Added on Tuesday, 25 August 2015 17:01:09
+
+kaszę kus kus z mlekiem i cukrem
+==========
+Diary (KF)
+- Your Highlight on page 347 | location 5313-5314 | Added on Tuesday, 25 August 2015 17:14:10
+
+Jeśli każdego dnia będziesz żył tak jakby był to twój ostatni dzień, pewnego dnia z pewnością będziesz miał rację.
+==========
+Diary (KF)
+- Your Highlight on page 350 | location 5352-5354 | Added on Tuesday, 25 August 2015 17:18:14
+
+Nauczyła mnie ta historia i uświadomiła mi to, że jednak odpowiadam sam za swoje życie. Wcześniej jakoś byłem otumaniony przez system i miałem wrażenie, że czegokolwiek nie zrobie, to i tak jakoś to będzie - w kazdym razie będę żyl. A tutaj zorientowałem się, że mam sam wpływ na wszystko i to ja decyduje.
+==========
+Diary (KF)
+- Your Highlight on page 351 | location 5372-5373 | Added on Tuesday, 25 August 2015 17:19:12
+
+Zamówilem dla niej kwiaty na jutro z okazji dnia życzliwości. Tak po prostu chciałem jej wysłać kwiaty, żeby się uśmiechnęla.
+==========
+Diary (KF)
+- Your Highlight on page 363 | location 5564-5565 | Added on Tuesday, 25 August 2015 17:35:14
+
+"Chciałem tylko powiedzieć, że strasznie Ciebie tu brakuje.Wszyscy o Ciebie pytają."
+==========
+Diary (KF)
+- Your Highlight on page 364 | location 5580-5583 | Added on Tuesday, 25 August 2015 17:37:15
+
+Chciałbym posiąść wielką umiejętność empatii i umieć poczuć się zawsze jak druga osoba. To taki mój cel na nowy rok. Też postanowiłem, że będę zawsze wysyłał kartki, listy i inne tego typu rzeczy, które będą sprawiać, że ludzie będą się częściej usmiechać. Na dzień życzliwości kupować komuś kwiaty, na dzień kobiet pamiętać o osobach, które nigdy by nie pomyślały, że mógłbym o nich pamiętać itd. Itd.
+==========
+Diary (KF)
+- Your Highlight on page 366 | location 5609-5610 | Added on Tuesday, 25 August 2015 17:40:23
+
+Nawet jeśli już wszyscy w ciebie zwątpli pokaż że się mylili.
+==========
+Diary (KF)
+- Your Highlight on page 367 | location 5619-5619 | Added on Tuesday, 25 August 2015 17:41:16
+
+just talk about how you react to the situation.
+==========
+Diary (KF)
+- Your Highlight on page 367 | location 5620-5621 | Added on Tuesday, 25 August 2015 17:42:09
+
+Remember to cut all details down to the bare essentials that make your story logical and then add liberal amounts of your reaction and how you feel about the events.
+==========
+Diary (KF)
+- Your Highlight on page 368 | location 5632-5632 | Added on Tuesday, 25 August 2015 17:46:05
+
+dostaliśmy najlepszy prezent na mikołaja: wiatr.
+==========
+Diary (KF)
+- Your Highlight on page 368 | location 5633-5633 | Added on Tuesday, 25 August 2015 17:46:21
+
+Good Morning Papa Noel! Vamos? It's windy!
+==========
+Diary (KF)
+- Your Bookmark on page 368 | location 5632 | Added on Tuesday, 25 August 2015 17:47:10
+
+
+==========
+Diary (KF)
+- Your Highlight on page 371 | location 5679-5680 | Added on Tuesday, 25 August 2015 17:52:05
+
+Więc na jego stronie trochę to śmiesznie wygląda, ale ma zdjęcia Kostera, Moreno, jakiś tam prosów robiących loopy i mnie :D
+==========
+Diary (KF)
+- Your Highlight on page 374 | location 5721-5721 | Added on Tuesday, 25 August 2015 17:56:44
+
+ucieczka od systemu.
+==========
+Diary (KF)
+- Your Highlight on page 374 | location 5726-5730 | Added on Tuesday, 25 August 2015 17:58:06
+
+że żyje taką rutyną, chodzi do pracy, robi zakupy, zazwyczaj też nie może sobie pozwolić na wszystko i idzie spać, a następnego dnia znowu to samo. Dlatego wziął spakował się i wyruszył po świecie. Zarabia na żonglowaniu i robieniu akrobatycznych przedstawień na ulicach turystycznych miejscowości. Teraz jest tutaj na gc, gdzie będzie później niewiadomo, ale olał system - wyszedł poza ramy te które stworzyli mu "wielcy" - on nie ma potrzeb typu Ipod, ipad itd. Doświadcza życia takim jakim jest, natralne(nieskażone komercjalizmem) życie.
+==========
+Diary (KF)
+- Your Bookmark on page 375 | location 5740 | Added on Tuesday, 25 August 2015 17:59:39
+
+
+==========
+Diary (KF)
+- Your Highlight on page 382 | location 5854-5855 | Added on Tuesday, 25 August 2015 18:16:40
+
+Najlepsze rzeczy w życiu są za darmo. Najlepsze rzeczy w życiu nie są rzeczami.
+==========
+Diary (KF)
+- Your Highlight on page 382 | location 5855-5859 | Added on Tuesday, 25 August 2015 18:19:05
+
+Kinga żyła pełnią życia i odeszła u szczytu swoich marzeń w najszczęśliwszym okresie swojego życia. Pozostawiła nam ogromną moc inspiracji by wieść życie pełne znaczenia w każdej jego drogocennej chwili. Kinga odeszła w spokoju ducha silna i dobrze przygotowana do tej największej z podróży... czego i nam wszystkim z całego serca życzę.  chopin
+==========
+Diary (KF)
+- Your Highlight on page 383 | location 5863-5863 | Added on Tuesday, 25 August 2015 18:19:21
+
+wolność. Później milość, przyjaźń i współczucie. Piękno, magię i naturę.
+==========
+Diary (KF)
+- Your Highlight on page 383 | location 5866-5867 | Added on Tuesday, 25 August 2015 18:19:43
+
+Mówi się, że ludzie, którzy są razem blisko, przesiąkają sobą. Kiedy umarła Kinga, umarła także jakaś część mnie, lecz za to jakaś część Kingi wciąż żyje... we mnie.
+==========
+Diary (KF)
+- Your Highlight on page 385 | location 5903-5904 | Added on Tuesday, 25 August 2015 18:26:48
+
+nie jeździć żeby jeździć, ale pisać artykuły, robić reportaże i slajdowiska. Żeby przybliżać ludziom iejsca trudno dostępne i inspirować do własnych podróży.
+==========
+Diary (KF)
+- Your Highlight on page 385 | location 5901-5902 | Added on Tuesday, 25 August 2015 18:27:02
+
+Być blisko bliskich.
+==========
+Diary (KF)
+- Your Highlight on page 394 | location 6034-6036 | Added on Tuesday, 25 August 2015 18:37:26
+
+Okolice playa de esqinzo (Fuertaventura), ok. 6km na południe od wioski Cotillo na północno zachodnim wybrzeżu. Jestem chyba w najpiękniejszym miejscu na świecie jakim do tej pory widziałem.
+==========
+Diary (KF)
+- Your Highlight on page 395 | location 6044-6048 | Added on Tuesday, 25 August 2015 18:42:06
+
+Leżę w namiocie, kóry przed chwilą otworzyłem, by móc podziwiać wschód słońca. Na niebie jest czerwono niebiesko, a jak wychylę się lekko widzę księżyc, prawie w pełni. Śpimy dziś na plaży. Gdzie? Gdzieś na 15km na południe (bo mniej więcej tyle wczoraj przeszliśmy) od miejscowości gdzie byliśmy wczoraj (Cotillo). Słychać wyraźny i głośny szum morza, słychać jak masywy wody spiętrzone uderzają o skały przy brzegu. Co jakiś czas co większe fale uderzają z taką mocą, że jest wrażenie małego tzęsienia ziemi, powietrze drga a piasek na którym śpimy przenosi drgania z uderzenia fali.
+==========
+Diary (KF)
+- Your Highlight on page 396 | location 6068-6069 | Added on Tuesday, 25 August 2015 18:44:08
+
+To tutaj widziałem najpiękniejsze zjawisko na świecie jakie widziałem - czyli tęczę powstająca na załamjących się falach.
+==========
+Diary (KF)
+- Your Bookmark on page 399 | location 6104 | Added on Tuesday, 25 August 2015 21:01:46
+
+
+==========
+Diary (KF)
+- Your Note on page 400 | location 6123 | Added on Tuesday, 25 August 2015 21:04:33
+
+MagoTrip magoTramp
+==========
+Diary (KF)
+- Your Highlight on page 400 | location 6123-6123 | Added on Tuesday, 25 August 2015 21:04:33
+
+Mago
+==========
+Diary (KF)
+- Your Bookmark on page 401 | location 6139 | Added on Tuesday, 25 August 2015 21:12:46
+
+
+==========
+Diary (KF)
+- Your Highlight on page 401 | location 6144-6147 | Added on Tuesday, 25 August 2015 21:13:00
+
+Startujemy na szczyt. Głowa mi pęka. Chce mi się wymiotować, wchodzimy. Kręci mi się w głowie. Robię przytanki. 2m pod górę, 30 s odpoczynku, idę jak żółw, chce mi się wymiotować. Zaczynam obawiać się zę nie wejdę. Przypomina mi się: dopóki walczysz jesteś zwycięzcą. Zaciskam zęby i idę. Widzę wschodzące słońce przy kolejce. Mega widok! Wchodzę na szczyt. Łyk pepsi od Piotrka.
+==========
+Diary (KF)
+- Your Highlight on page 414 | location 6343-6344 | Added on Wednesday, 26 August 2015 15:15:22
+
+Umiejętność rozwiązywania problemów i szukanie zawsze dobrych stron
+==========
+Diary (KF)
+- Your Highlight on page 414 | location 6344-6345 | Added on Wednesday, 26 August 2015 15:15:38
+
+Książka przemawianie publiczne i zjednywanie sobie ludzi w biznesie.
+==========
+Diary (KF)
+- Your Highlight on page 414 | location 6347-6348 | Added on Wednesday, 26 August 2015 15:15:52
+
+Nie mieć leniwego umysłu ani ciała.
+==========
+Diary (KF)
+- Your Highlight on page 414 | location 6334-6335 | Added on Wednesday, 26 August 2015 15:16:11
+
+Przed rozłąką z kimś wyjątkowym, dać mu jabłuszko z karteczek (kalendarzyk) i na każdy dzień rozłąki napisać coś miłego.
+==========
+Diary (KF)
+- Your Highlight on page 414 | location 6335-6336 | Added on Wednesday, 26 August 2015 15:16:32
+
+Pudełko grające po otwarciu, wyłożone w środku aksamitem,
+==========
+Diary (KF)
+- Your Highlight on page 414 | location 6337-6338 | Added on Wednesday, 26 August 2015 15:16:49
+
+Na pewno będę chciał otworzyć jakiś biznes, tylko tworzenie i poczucie że rzeczywiście coś sobą wnosisz może dać mi prawdziwe spełnienie.
+==========
+Diary (KF)
+- Your Highlight on page 414 | location 6340-6340 | Added on Wednesday, 26 August 2015 15:17:43
+
+Merry kiss mass,
+==========
+Diary (KF)
+- Your Highlight on page 414 | location 6345-6345 | Added on Wednesday, 26 August 2015 15:18:16
+
+Jak zrobić turban?
+==========
+Diary (KF)
+- Your Highlight on page 415 | location 6351-6352 | Added on Wednesday, 26 August 2015 15:18:51
+
+Być otwartym teatralnie, wolny od kompleksów, wolnym od nałogów od barier językowych, ograniczeń w myśleniu, po prostu wolnym, droga niezależna i niezależne aspiracje, równowaga i spokój
+==========
+Diary (KF)
+- Your Highlight on page 415 | location 6356-6357 | Added on Wednesday, 26 August 2015 15:19:18
+
+Przed każdą notatką na blogu powtarzać sobie, kocham moich czytelników, bez nich nie miałbym po co pisać tego bloga.
+==========
+Diary (KF)
+- Your Highlight on page 415 | location 6357-6358 | Added on Wednesday, 26 August 2015 15:23:42
+
+Rozmawiając z kimś przez telefon, podnosząc słuchawkę okazywać zainteresowanie i radość, że się z kimś rozmawia.
+==========
+Diary (KF)
+- Your Highlight on page 415 | location 6358-6359 | Added on Wednesday, 26 August 2015 15:23:52
+
+Wysłać kartki do moich dobroczyńców z drogi.
+==========
+Diary (KF)
+- Your Highlight on page 415 | location 6359-6359 | Added on Wednesday, 26 August 2015 15:23:57
+
+Szczęście nie przychodzi z zewnątrz. Trzeba je znaleźć w nas samych.
+==========
+Diary (KF)
+- Your Highlight on page 415 | location 6360-6360 | Added on Wednesday, 26 August 2015 15:24:37
+
+Dare to be free
+==========
+Diary (KF)
+- Your Highlight on page 415 | location 6361-6361 | Added on Wednesday, 26 August 2015 15:24:47
+
+Jeśli twoja rodzina znalazłaby się na scenie, to jakiego rodzaju byłoby to przedstawienie?
+==========
+Diary (KF)
+- Your Highlight on page 416 | location 6367-6367 | Added on Wednesday, 26 August 2015 15:25:27
+
+Robić coś dla ludzi. Bezinteresownie.
+==========
+Diary (KF)
+- Your Bookmark on page 415 | location 6350 | Added on Wednesday, 26 August 2015 15:25:44
+
+
+==========
+Diary (KF)
+- Your Highlight on page 416 | location 6369-6370 | Added on Wednesday, 26 August 2015 15:26:06
+
+Wiesz, wydaje mi się zupełnie coś przeciwnego, ale mogę się mylić, bo mylę się często. Jeśli nie mam racji, to popraw mnie proszę.
+==========
+Diary (KF)
+- Your Highlight on page 416 | location 6370-6371 | Added on Wednesday, 26 August 2015 15:26:23
+
+Pisać do ludzi ręcznie kaligrafowane kartki i listy.
+==========
+Diary (KF)
+- Your Highlight on page 416 | location 6376-6376 | Added on Wednesday, 26 August 2015 15:29:12
+
+Bądź spontaniczny i nieprzewidywalny.
+==========
+Diary (KF)
+- Your Highlight on page 416 | location 6376-6377 | Added on Wednesday, 26 August 2015 15:29:16
+
+Może moim celem powinno być małżeństwo i wychowanie dzieci oraz powinienem polubić osobę, której życiowym celem jest również małżeństwo i wychowanie dzieci.
+==========
+Diary (KF)
+- Your Highlight on page 417 | location 6392-6392 | Added on Wednesday, 26 August 2015 15:32:20
+
+Nazwa restauracji Punkt G.
+==========
+Diary (KF)
+- Your Highlight on page 418 | location 6395-6396 | Added on Wednesday, 26 August 2015 15:32:53
+
+Muszę się wyzbyć tego co wyniosłem z domu: to że nie mówiłem nigdy za siebie, nie wbijałem się w rozmowę i nie argumentowałem mocno swoich zdań.
+==========
+Diary (KF)
+- Your Highlight on page 418 | location 6396-6397 | Added on Wednesday, 26 August 2015 15:33:05
+
+Robić jedną nową rzecz w tygodniu.
+==========
+Diary (KF)
+- Your Highlight on page 418 | location 6405-6405 | Added on Wednesday, 26 August 2015 15:34:22
+
+Dużo to dla ciebie znaczy? To włóż w to troche eskpresji.
+==========
+Diary (KF)
+- Your Highlight on page 419 | location 6413-6415 | Added on Wednesday, 26 August 2015 15:35:42
+
+Zwyczaj na sylwestra, żeby rozpalać ognisko i wrzucić do niego listę rzeczy, których nie chce się w nowym roku, ale za to za każdą rzecz która się chce trzeba wrzucić owoc do oceanu.
+==========
+Diary (KF)
+- Your Highlight on page 419 | location 6416-6417 | Added on Wednesday, 26 August 2015 15:36:45
+
+podcas jedzenia tych 12 winogron o 12 podnosimy prawą nogę do góry i na ostatni winogron tupiemy tą nogą w ziemię, też na szczęście, żeby się przyjęło.
+==========
+Diary (KF)
+- Your Highlight on page 419 | location 6425-6425 | Added on Wednesday, 26 August 2015 15:38:10
+
+Jak będzie się dbało o innych i robiło dla nich rzeczy, to na pewno to wróci i to ze zdwojoną mocą.
+==========
+Diary (KF)
+- Your Highlight on page 420 | location 6428-6429 | Added on Wednesday, 26 August 2015 15:38:44
+
+Imponuje mi bardzo zachowanie, gdy ktoś coś robi i nie ważne co, ale jest w 100 procentach zaangażowany i nie patrzy na innych, po prostu przedstawia to co ma w głowie, nie patrząc na to czy wywołuje tym śmiech u innych itd..
+==========
+Diary (KF)
+- Your Highlight on page 420 | location 6434-6435 | Added on Wednesday, 26 August 2015 15:39:15
+
+Zarost długi, kolczyk, dredy lub czapka na dredy,
+==========
+Diary (KF)
+- Your Bookmark on page 420 | location 6436 | Added on Wednesday, 26 August 2015 15:41:33
+
+
+==========
+Diary (KF)
+- Your Highlight on page 423 | location 6476-6476 | Added on Wednesday, 26 August 2015 15:44:20
+
+And I will never forget the flute melody, played while we were leaving the forest.
+==========
+Diary (KF)
+- Your Highlight on page 423 | location 6480-6480 | Added on Wednesday, 26 August 2015 15:46:52
+
+Zdjęcia wrocka
+==========
+Diary (KF)
+- Your Highlight on page 425 | location 6506-6506 | Added on Wednesday, 26 August 2015 15:49:12
+
+Living in a dartfull
+==========
+Diary (KF)
+- Your Highlight on page 426 | location 6527-6527 | Added on Wednesday, 26 August 2015 16:02:04
+
+Sprzedaż, to jest nic innego jak tyko motywowanie ludzi.
+==========
+Diary (KF)
+- Your Highlight on page 426 | location 6529-6530 | Added on Wednesday, 26 August 2015 16:02:29
+
+Powinienem otaczać się ludźmi, którzy mnie inspirują. I to bardzo ważne.
+==========
+Diary (KF)
+- Your Highlight on page 427 | location 6534-6535 | Added on Wednesday, 26 August 2015 16:03:04
+
+nie zapominania o tradycyjnych sposobach komunikacji, takich jak opowiadanie żywych historii, pisanie listów
+==========
+Diary (KF)
+- Your Highlight on page 427 | location 6536-6537 | Added on Wednesday, 26 August 2015 16:03:48
+
+Samorozwój to droga, która nigdy się nie kończy i może być drog na życie.
+==========
+Diary (KF)
+- Your Highlight on page 428 | location 6549-6551 | Added on Wednesday, 26 August 2015 16:05:31
+
+Weź pod uwagę, że wielka miłość i wielkie osiągnięcia zawierają w sobie wielkie ryzyko. Gdy coś tracisz,m nie trać tej lekcji. Stosuj zasadę SSS: Szacunek dla siebie, Szacunek dla innych, Stuprocentowa odpowiedzialność za wszystkie swoje czyny.
+==========
+Diary (KF)
+- Your Highlight on page 427 | location 6548-6548 | Added on Wednesday, 26 August 2015 16:05:48
+
+rzuć wszystko i chodź sięcałować
+==========
+Diary (KF)
+- Your Highlight on page 432 | location 6611-6612 | Added on Wednesday, 26 August 2015 16:12:49
+
+Research shows that tackling a tiny quest even small will increase your willpower.  
+==========
+Diary (KF)
+- Your Highlight on page 432 | location 6619-6619 | Added on Wednesday, 26 August 2015 16:16:50
+
+dla Manuela, Julio Cortazar
+==========
+Diary (KF)
+- Your Highlight on page 435 | location 6656-6658 | Added on Wednesday, 26 August 2015 16:21:39
+
+Jednej osobie mówisz o domach z gliny/ podóży autostopem do chorwacji/ wyjeździe do australii/ itd i ona mówi aha i już wiesz że ta osoba po prostu Cię nie zrozumie.
+==========
+Diary (KF)
+- Your Highlight on page 437 | location 6687-6692 | Added on Wednesday, 26 August 2015 16:24:28
+
+Wieczorkiem przyszla do nas do pokoju jeszcze Dorota - sąsiadka z akademika - bardzo wesoła dziewczyna. Jest na pierwszym roku, ale jest bardzo wesola, otwarta i ekspresyjna. Zapytałem czy by nie zrobiła mi cherbaty i w zasadzie w tym samym momencie poszła i ją zrobiła - zupełnie nie spodziewałem się takiej reakcji. Wypiliśmy razem cherbatkę, pogadaliśmy - okazało się że też lubi grać w Gomoku i lubi też gry na myślenie. Pokazała nam fajną stronę w internecie: http://www.cambridgebrainsciences.com/   - pograliśmy chwilę. Później też zagraliśmy w kółko i krzyżyk - przegrałem 3:1 :D  - skubana dobra jest :)
+==========
+Diary (KF)
+- Your Highlight on page 443 | location 6792-6793 | Added on Wednesday, 26 August 2015 16:26:39
+
+ważne jest to abyśmy zdali sobię sprawę, że nie jesteśmy idealni i zrozumieli, że właśnie tacy jesteśmy akceptowni i kochani.
+==========
+Diary (KF)
+- Your Highlight on page 445 | location 6811-6812 | Added on Wednesday, 26 August 2015 16:28:10
+
+Brakuje mi czasu na moje zajęcia, na siebie samego, brakuje mi czasu na fotografię, brakuje mi czasu na rozwój osobisty, na treningi, na rozwój nawet w IT, na pisanie pracy mgr, na podróżowanie, na spotykanie się ze znajomymi, na spotkania z rodziną, na naukę języków.
+==========
+Diary (KF)
+- Your Highlight on page 445 | location 6814-6817 | Added on Wednesday, 26 August 2015 16:28:27
+
+Rodzina Zdrowie Finanse Duchowość Kariera Emocje (uzewnętrzniania swojej pasji) Psychika i ciało fizyczne
+==========
+piosenki.pdf  
+- Your Highlight on page 57-57 | Added on Thursday, 27 August 2015 00:59:34
+
+- 57 - O my darling 4 4 4 3 5 5 5 4 4 5 6 6 % 5 $ $ 5 % % 5 $ 5 4 4 5 $ 3 # $ 4 Z archiwum X - motyw przewodni filmu
+==========
+piosenki.pdf  
+- Your Highlight on page 60-60 | Added on Thursday, 27 August 2015 01:00:22
+
+Renegade - motyw z filmu Renegat
+==========
+piosenki.pdf  
+- Your Highlight on page 61-61 | Added on Thursday, 27 August 2015 01:02:47
+
+Whisky - D¿em
+==========
+piosenki.pdf  
+- Your Highlight on page 65-65 | Added on Thursday, 27 August 2015 01:04:36
+
+Lion King
+==========
+piosenki.pdf  
+- Your Highlight on page 53-53 | Added on Thursday, 27 August 2015 01:05:17
+
+Nie placz Ewka
+==========
+piosenki.pdf  
+- Your Highlight on page 52-52 | Added on Thursday, 27 August 2015 01:05:25
+
+Przezyj to sam
+==========
+piosenki.pdf  
+- Your Highlight on page 26-26 | Added on Thursday, 27 August 2015 01:07:27
+
+Tak bardzo siê stara³em
+==========
+piosenki.pdf  
+- Your Highlight on page 24-24 | Added on Thursday, 27 August 2015 01:07:39
+
+Killing me softly with his song
+==========
+Psycho (KF)
+- Your Highlight on page 154 | location 2348-2348 | Added on Thursday, 27 August 2015 02:21:35
+
+mój typ koloru to wiosna.
+==========
+Psycho (KF)
+- Your Highlight on page 154 | location 2349-2350 | Added on Thursday, 27 August 2015 02:22:27
+
+brąz, ciepły szary, morski błękit, błękit dżinsowy, kremowy oraz beż. Bardzo dobrze prezentujesz się w ciepłych kolorach o złotawej tonacji.
+==========
+Psycho (KF)
+- Your Highlight on page 154 | location 2354-2358 | Added on Thursday, 27 August 2015 02:22:54
+
+*karmelowy i miodowy brąz;  *piaskowy;  *słomkowy żółty, słoneczny żółty, waniliowy;  *łososiowy, brzoskwiniowy, morelowy;  *koralowy, pomidorowy;  *ciepły odcień lila;  *morski, jasny turkus, granat;  *trawiastozielony, groszkowy *ciepłe odcienie szarego.
+==========
+Psycho (KF)
+- Your Bookmark on page 154 | location 2360 | Added on Thursday, 27 August 2015 11:19:16
+
+
+==========
+Psycho (KF)
+- Your Bookmark on page 169 | location 2589 | Added on Thursday, 27 August 2015 11:20:17
+
+
+==========
+Psycho (KF)
+- Your Highlight on page 170 | location 2606-2607 | Added on Thursday, 27 August 2015 11:21:44
+
+Jeśli jesteś radosny, mów radośnie. Jeśli jesteśli jesteś w dołku, wyrzuć to z siebie.
+==========
+Psycho (KF)
+- Your Highlight on page 171 | location 2610-2610 | Added on Thursday, 27 August 2015 11:21:59
+
+Twórz coś. Maluj, rysuj, śpiewaj, graj.
+==========
+Psycho (KF)
+- Your Highlight on page 185 | location 2833-2851 | Added on Thursday, 27 August 2015 11:30:38
+
+Cechy charakterystyczne osób samorealizujących się: 1. Nastawienie realistyczne, 2. Akceptacja samego siebie, innych ludzi i świata natury, 3. Spontaniczność,  4. Koncentracja na sprawach do rozwiązania, 5. Niezależność, autonomiczność, 6. Spojrzenie na problem z pewnej perspektywy, 7. Otwartość na analizę sytuacji, na działania, 8. Pozytywne wartościowanie doświadczeń życiowych, 9. Identyfikacja z ludzkością, odpowiedzialność za to, że jest się członkiem tej społeczności, 10. Głęboko uczuciowe związki z ludźmi, których kochają, 11. Demokratyczne wartości i postawy oraz gotowość do analizowania ich, 12. Filozoficzne i niezłośliwe poczucie humoru, 13. Zasób zdolności twórczych / malowanie, taniec, rzeźbienie, śpiewanie, gra na instrumencie/, 14. Odporność na wpływy kulturowe, np. moda,  15. Fantazja, kreatywność, twórczość Make each day count.
+==========
+Psycho (KF)
+- Your Highlight on page 201 | location 3072-3079 | Added on Thursday, 27 August 2015 11:48:53
+
+Efekt horoskopowy: Masz potrzebę by ludzie cię lubili i podziwiali, jednak jesteś osobą krytyczną wobec siebie. Masz pewne wady osobowości, ale potrafisz je kompensować tym, co jest w tobie dobre. Masz duże możliwości, które wciąż pozostają niewykorzystane. O ile na zewnątrz możesz wyglądać na osobę zdyscyplinowaną i opanowaną, wewnątrz często trapi cię niepewność i martwisz się o wiele spraw. Niekiedy masz poważne wątpliwości, czy twoja decyzja była dobra albo czy twoje czyny były właściwe. Lubisz pewną ilość zmian i różnorodności, a kiedy osaczają cię ograniczenia odczuwasz niezadowolenie. Cenisz sobie własną niezależność myślenia i nie przyjmujesz cudzych twierdzeń bez przekonujących dowodów. Życie nauczyło cię, aby nie przesadzać ze szczerością kiedy się przed kimś otwierasz. Czasem bywasz osobą otwartą na ludzi, przystępną i towarzyską, ale innym razem zamkniętą, ostrożną i zdystansowaną. Niektóre z twoich marzeń wydają się być nierealistyczne.
+==========
+Psycho (KF)
+- Your Highlight on page 202 | location 3089-3090 | Added on Thursday, 27 August 2015 11:49:28
+
+Warunkiem niezbednym do przezycia jakichkolwiek emocji jest przerwanie automatyzmow
+==========
+Psycho (KF)
+- Your Highlight on page 213 | location 3266-3267 | Added on Thursday, 27 August 2015 11:58:00
+
+Kidy siła decyzji dochodzi do głosu słyszymy w naszej głowie: "decyduję się", "postanawiam", "wybieram", "zamierzam", "planuję", "opłaca mi się", itp..
+==========
+Psycho (KF)
+- Your Highlight on page 212 | location 3243-3244 | Added on Thursday, 27 August 2015 11:58:36
+
+Praca nad monologiem wewnętrznym jest podstawą do rozwoju asertywnośći.
+==========
+Psycho (KF)
+- Your Highlight on page 213 | location 3255-3259 | Added on Thursday, 27 August 2015 11:59:28
+
+Gdy mamy poczucie winy, czujemy się ze sobą źle i wydaje nam się ze jesteśmy gorsi od innych. Często zdarza się że przypisujemy sobie winę nieadekwatnie, to znaczy zaczynamy przyjmować odpowiedzialność za konsekwencje zdarzeń, którym niejesteśmy winni. To sprawia, że ciągle jesteśmy spięci i zmeczeni życiem, tym bardziej że wykorzustyjemy dużo naszej wewnętrznej energii na to aby w myślach karać siebie np.. Przy pomocy samokarzących zdań nieasertywnych. Człowiek z poczuciem winy zwykle czuje się mniej wartościowy od innych i nie lubi sam siebie.
+==========
+Psycho (KF)
+- Your Highlight on page 214 | location 3269-3270 | Added on Thursday, 27 August 2015 11:59:46
+
+Nie mów "TAK", gdy chcesz powiedzieć "NIE". Jak nauczyć się asertywności.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 136-137 | Added on Friday, 28 August 2015 09:20:41
+
+poczucie samotności, obojętność wobec drugiego człowieka i przemoc.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 150-150 | Added on Friday, 28 August 2015 17:17:41
+
+utopijną kolonię kooperatystyczną Brook Farm,
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 158-159 | Added on Friday, 28 August 2015 17:18:56
+
+Miarą cywilizacji nie jest liczba ludności państwa, jego siła ani kwitnąca gospodarka, lecz jakość kultury: sztuki, muzyki, literatury, filozofii, nauki i religii.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 281-281 | Added on Friday, 28 August 2015 17:34:26
+
+Obywatelskie nieposłuszeństwo
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 426-428 | Added on Saturday, 29 August 2015 00:59:13
+
+Doprawdy, nie ma dnia, aby pracujący człowiek znalazł czas na prawdziwą rzetelność albo pozwolił sobie na utrzymywanie najprostszych, ludzkich stosunków z sąsiadami, albowiem cena jego pracy spadłaby na rynku. Ma czas tylko na to, aby być maszyną.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 459-460 | Added on Saturday, 29 August 2015 01:07:14
+
+Nawet w tym, co zwie się zabawami i rozrywkami ludzkości, kryje się stereotypowa, lecz nieświadoma rozpacz. Nie ma w nich elementu zabawy, albowiem rozrywką zajmują się ludzie po pracy.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 464-465 | Added on Saturday, 29 August 2015 01:10:45
+
+Nigdy nie jest za późno, aby się wyzbyć przesądów. Nie można zaufać żadnemu sposobowi rozumowania czy postępowania, choćby i najstarszemu, jeśli go się nie wypróbuje.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 502-503 | Added on Saturday, 29 August 2015 09:30:54
+
+i jeśli czegoś żałuję, to niewątpliwie swoich dobrych manier.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 528-529 | Added on Saturday, 29 August 2015 09:35:25
+
+żywność, schronienie, odzież i
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 528-529 | Added on Saturday, 29 August 2015 09:35:54
+
+żywność, schronienie, odzież i opał.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 560-561 | Added on Saturday, 29 August 2015 09:41:54
+
+Większość luksusów i tak zwanych wygód życiowych jest nie tylko zbędna, lecz stanowi niewątpliwie przeszkodę w rozwoju duchowym ludzkości.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 589-590 | Added on Saturday, 29 August 2015 09:46:01
+
+Nie adresuję mych słów również do tych, którzy znaleźli dobre zatrudnienie, niezależnie, w jakim charakterze, i świadomi są dodatnich i ujemnych stron swojego zajęcia.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 679-680 | Added on Sunday, 30 August 2015 02:52:51
+
+Jestem wszelako pewien, że na ogół ludzie bardziej usilnie pragną mieć modne albo przynajmniej czyste i nie łatane ubranie aniżeli czyste sumienie.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 724 | Added on Sunday, 30 August 2015 08:04:57
+
+wszystko co posadam nosze w sobie
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 723-724 | Added on Sunday, 30 August 2015 08:04:57
+
+pustymi rękoma.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 810-812 | Added on Sunday, 30 August 2015 08:19:36
+
+podniebne ptaki mają swoje gniazda, lisy swoje nory[39], niecywilizowani zaś swoje wigwamy, we współczesnym społeczeństwie cywilizowanym nie więcej aniżeli połowa rodzin posiada schronienie na własność.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 820-820 | Added on Sunday, 30 August 2015 08:21:35
+
+kominków Rumforda
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 822-823 | Added on Sunday, 30 August 2015 08:22:00
+
+kto podobno korzysta z tego wszystkiego, jest na ogół biednym człowiekiem cywilizowanym, podczas gdy niecywilizowany, który nie ma tych wygód, to bogaty dzikus?
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 833-834 | Added on Sunday, 30 August 2015 08:25:50
+
+Usiłuje się niewątpliwie – mając na względzie nasze dobro – stworzyć z życia ludzi cywilizowanych instytucję, która tłumi w pewnym stopniu życie jednostki w celu zachowania i doskonalenia egzystencji gatunku ludzkiego.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 781-783 | Added on Sunday, 30 August 2015 08:27:36
+
+W końcu nie wiemy, co to mieszkanie na świeżym powietrzu, i pędzimy życie ograniczone do czterech ścian domu także pod wieloma więcej względami niż tylko te, z których zdajemy sobie sprawę.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 709-712 | Added on Sunday, 30 August 2015 08:30:28
+
+Chyba nigdy nie powinniśmy się starać o nowe ubranie, choćby stare było w strzępach, dopóki tak sobą nie pokierujemy, nie postawimy przed sobą takich zadań albo nie pożeglujemy tak daleko, że w starym staniemy się nowymi ludźmi, i dopiero wtedy przy wdziejemy nowe, aby się nie czuć jak młode wino w starych butelkach[29].
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 755-758 | Added on Sunday, 30 August 2015 08:32:56
+
+upodabnia się do sytuacji robotników angielskich.[32] Nic w tym dziwnego, słyszałem bowiem, czy też sam spostrzegłem, że głównym celem nie jest dobra i przyzwoita odzież dla ludzi, ale niewątpliwie wzbogacenie się korporacji.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 767-768 | Added on Sunday, 30 August 2015 08:33:58
+
+dawał sam budynek, a nie ciepło rodzinne. Wprawdzie musi ono być w najwyższym stopniu niepełne i okresowe w klimatach, w których dom kojarzy nam się głównie z zimą czy porą deszczową, przez dwie trzecie roku zaś jest zbędny, wystarczy bowiem parasol od słońca.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 859-860 | Added on Sunday, 30 August 2015 08:38:43
+
+Otoczeni luksusem, wszyscy jesteśmy biedni z podobnych względów, gdyż nie mamy dostępu do tysiąca przyjemności życia człowieka niecywilizowanego.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 866-867 | Added on Sunday, 30 August 2015 08:39:59
+
+Nadal to aktualny zarzut, nasze domy bowiem są taką nieporęczną nieruchomością, że często stajemy się bardziej ich więźniami aniżeli mieszkańcami.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 891-893 | Added on Sunday, 30 August 2015 08:44:02
+
+którzy znajdują się w pośrednim położeniu. Większość ludzi chyba nigdy się nie zastanawiała, czym jest dom. Są oni naprawdę biedni przez całe życie – choć to całkiem zbyteczne – uważają bowiem, że muszą mieć taki dom, jakiego właścicielem jest ich sąsiad.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 898-899 | Added on Sunday, 30 August 2015 08:45:00
+
+pustych pokoi gościnnych dla pustych gości?
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 904-906 | Added on Sunday, 30 August 2015 08:46:29
+
+co na tym świecie powinno należeć do porannych obowiązków człowieka? Na biurku moim leżały trzy kawałki wapienia, ale przeraziłem się stwierdziwszy, że trzeba je codziennie odkurzać, podczas gdy w mojej głowie nadal zalegał kurz. Zatem z obrzydzeniem wyrzuciłem kamienie przez okno. Jakże zatem mógłbym posiadać umeblowany dom?
+==========
+UltraRomance: bike-camping free spirit who does not like to work - Business Insider (businessinsider.com)
+- Your Highlight at location 38-40 | Added on Sunday, 30 August 2015 09:09:36
+
+"The more you learn about human history, it reveals that in a hunter-gatherer society, say in New England 400 years ago, it took nine hours a week to procure everything you needed to live for that week, and the rest was all leisure time.
+==========
+UltraRomance: bike-camping free spirit who does not like to work - Business Insider (businessinsider.com)
+- Your Highlight at location 50-50 | Added on Sunday, 30 August 2015 09:13:58
+
+don't necessarily eat for taste. It's a lot for nutrition.
+==========
+UltraRomance: bike-camping free spirit who does not like to work - Business Insider (businessinsider.com)
+- Your Highlight at location 48-48 | Added on Sunday, 30 August 2015 09:14:24
+
+Yogurt is a staple of my diet,
+==========
+UltraRomance: bike-camping free spirit who does not like to work - Business Insider (businessinsider.com)
+- Your Highlight at location 72-73 | Added on Sunday, 30 August 2015 09:18:44
+
+I'm not going to spend the best years of my life doing something completely meaningless."
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 967-968 | Added on Friday, 25 September 2015 16:25:45
+
+Trudno jest zaczynać bez pożyczek, z drugiej strony jednak może to najbardziej wspaniałomyślna linia postępowania, jeśli pozwolimy znajomym mieć udział w naszym przedsięwzięciu.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Bookmark at location 967 | Added on Friday, 25 September 2015 16:25:52
+
+
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 742-743 | Added on Saturday, 26 September 2015 19:17:42
+
+Na ogół nie uważam, aby słuszne było twierdzenie, że w naszym czy innym kraju ubiór zyskał rangę sztuki. Ludzie obecnie radzą sobie nosząc to, co mogą kupić.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1048-1048 | Added on Saturday, 26 September 2015 19:47:12
+
+Nigdy podczas swoich wędrówek nie natrafiłem na człowieka zajętego czymś tak prostym i naturalnym jak budowa własnego domu.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1059-1060 | Added on Sunday, 27 September 2015 19:39:01
+
+Człowiek ma tyle wspólnego ze stylem architektonicznym swojego domu, ile żółw z kształtem swojej skorupy.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1141-1144 | Added on Sunday, 27 September 2015 19:53:41
+
+Nasze wynalazki to zwykle śliczne błyskotki, które odrywają naszą uwagę od rzeczy poważnych. Są tylko ulepszonymi środkami wiodącymi do nie ulepszonego celu, celu już i tak zbyt łatwo osiągalnego; przypominają kolej do Bostonu czy Nowego Jorku. Bardzo nam spieszno skonstruować telegraf magnetyczny z Maine do Teksasu, może atoli Maine i Teksas nie mają sobie nic ważnego do przekazania.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1155-1156 | Added on Sunday, 27 September 2015 19:58:47
+
+i obejrzeć sobie okolicę,” Ależ jestem na to za mądry. Przekonałem się, że najszybciej podróżuje się pieszo.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1155-1156 | Added on Sunday, 27 September 2015 19:59:10
+
+Przekonałem się, że najszybciej podróżuje się pieszo.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1156-1162 | Added on Sunday, 27 September 2015 20:01:49
+
+„Może spróbujemy, kto prędzej tam dotrze. Odległość wynosi trzydzieści mil, opłata dziewięćdziesiąt centów. To prawie dzienny zarobek. Pamiętam, kiedy robotnicy przy budowie tej właśnie kolei zarabiali sześćdziesiąt centów dziennie. A zatem ruszam teraz pieszo i dotrę tam przed nocą; podróżowałem już w tym tempie przez tydzień. Tymczasem ty zarobisz na swój bilet i przyjedziesz tam jutro albo może dziś wieczorem, jeśli będziesz miał szczęście w porę dostać pracę. Zamiast iść do Fitchburga, będziesz pracował tu przez większą część dnia. Myślę, że gdyby kolej okrążała świat, wciąż bym cię wyprzedzał. A co się tyczy oglądania okolicy i przeżywania tej podróży, twoją znajomość sprawy będę musiał całkowicie zignorować.”
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1169-1170 | Added on Sunday, 27 September 2015 20:03:37
+
+Ów problem spędzania najlepszego okresu życia na zarabianiu pieniędzy po to, aby cieszyć się wątpliwą swobodą w okresie życia najmniej wartościowym, przypomina mi o przypadku pewnego Anglika,
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1195-1197 | Added on Sunday, 27 September 2015 20:07:39
+
+jeśli człowiek będzie żył w prostocie i żywił się tylko zasianymi przez siebie płodami, nie uprawiając więcej, aniżeli zje, i nie wymieniając plonów na niewystarczającą liczbę artykułów bardziej luksusowych i drogich, wystarczy mu pod uprawę ledwie kilka prętów ziemi.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1419-1421 | Added on Saturday, 10 October 2015 15:29:08
+
+Przez ponad pięć lat żyłem wyłącznie z pracy własnych rąk. Przekonałem się, że pracując około sześciu tygodni w roku[84], mogłem sprostać wszystkim wydatkom.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1428-1429 | Added on Saturday, 10 October 2015 18:46:29
+
+moją najbardziej przydatną umiejętnością jest nie pragnąć wiele.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1452-1453 | Added on Saturday, 10 October 2015 18:51:29
+
+pragnę, aby na świecie było jak najwięcej ludzi o własnych dążeniach. Dlatego też chciałbym, ażeby każdy z wielkim staraniem wybierał własną drogę i szedł naprzód właśnie nią, zamiast drogą ojca, matki czy sąsiada.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Bookmark at location 1492 | Added on Sunday, 11 October 2015 14:49:55
+
+
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1575-1577 | Added on Monday, 12 October 2015 07:39:04
+
+zatem, jeżeli mielibyśmy odbudowywać ludzkość środkami prawdziwie indiańskimi, botanicznymi, magnetycznymi albo naturalnymi, najpierw sami powinniśmy zyskać prostotę i dobroć Natury, rozpędzić chmury wiszące nam nad czołem i wchłonąć w pory odrobinę życia.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1870-1871 | Added on Wednesday, 14 October 2015 23:22:34
+
+albowiem bogactwo człowieka proporcjonalne jest do liczby rzeczy, z których potrafi zrezygnować.
+==========
+10 zasad jak skutecznie manipulowa spoeczestwem - ciekaweorg (krzysztof.nsn@gmail.com)
+- Your Highlight at location 27-27 | Added on Sunday, 18 October 2015 22:12:01
+
+Społeczeństwo musi być cały czas bardzo zajęte, bez czasu na myślenie”.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 1905-1906 | Added on Friday, 23 October 2015 09:26:58
+
+„Jak długo możecie, żyjcie wolni i nie wiążcie się niczym. Niewielka to różnica, czy związała was farma, czy więzienie okręgowe.”
+==========
+“Przygotowania – Informacje Praktyczne” (About Grochu)
+- Your Highlight at location 111-111 | Added on Saturday, 24 October 2015 17:17:02
+
+Wewnętrzna kieszeń
+==========
+Philippines Travel Guide (Lonely Planet)
+- Your Highlight on page 23 | location 350-351 | Added on Saturday, 31 October 2015 09:28:06
+
+dramatically placed ziplines
+==========
+Philippines Travel Guide (Lonely Planet)
+- Your Highlight on page 25 | location 375-375 | Added on Saturday, 31 October 2015 09:32:55
+
+Moalboal,
+==========
+Philippines Travel Guide (Lonely Planet)
+- Your Highlight on page 25 | location 375-375 | Added on Saturday, 31 October 2015 09:33:11
+
+Malapascua
+==========
+Philippines Travel Guide (Lonely Planet)
+- Your Highlight on page 35 | location 534-534 | Added on Tuesday, 3 November 2015 03:11:41
+
+bahala na (whatever will be will be).
+==========
+Philippines Travel Guide (Lonely Planet)
+- Your Bookmark on page 36 | location 548 | Added on Tuesday, 3 November 2015 03:13:15
+
+
+==========
+Philippines Travel Guide (Lonely Planet)
+- Your Highlight on page 20 | location 301-302 | Added on Sunday, 8 November 2015 16:43:11
+
+dolphin- and whale-watching at Bais and perfect beaches pretty much everywhere.
+==========
+Philippines Travel Guide (Lonely Planet)
+- Your Highlight on page 21 | location 309-310 | Added on Sunday, 8 November 2015 16:44:10
+
+bongo-infused hipster hang-outs of Quezon City
+==========
+Philippines Travel Guide (Lonely Planet)
+- Your Highlight on page 21 | location 318-320 | Added on Sunday, 8 November 2015 16:46:02
+
+Bicol is a top draw for water and adrenaline junkies via the CamSur Watersports Complex, where wakeboarding rules the roost. Daet, Camarines Norte, is a burgeoning surf and kitesurfing destination. To experience a more laid-back connection to the water, head to the edge of Luzon and snorkel alongside the gentle whale sharks of Donsol
+==========
+Happy Ukulele Songbook v2 (krzysztof.nsn@gmail.com)
+- Your Highlight at location 20-21 | Added on Friday, 27 November 2015 22:53:22
+
+little instrument of peace and happiness from Hawaii called the Ukulele.
+==========
+Orwell George - Rok 1984 (Unknown author)
+- Your Highlight at location 2690-2691 | Added on Saturday, 5 December 2015 12:46:09
+
+Słowa i czyny nic nie znaczą; liczą się uczucia. Jeśli zmuszą mnie do tego, żebym przestał cię kochać, wówczas będzie to prawdziwa zdrada.
+==========
+ukulele-wednesdays-songbook-v2 (krzysztof.nsn@gmail.com)
+- Your Highlight at location 28-28 | Added on Monday, 7 December 2015 20:45:21
+
+The Lion Sleeps Tonight – Tokens Little Lion Man –
+==========
+ukulele-wednesdays-songbook-v2 (krzysztof.nsn@gmail.com)
+- Your Highlight at location 29-29 | Added on Monday, 7 December 2015 20:45:27
+
+Mad World – Gary Jules*
+==========
+ukulele-wednesdays-songbook-v2 (krzysztof.nsn@gmail.com)
+- Your Highlight at location 27-27 | Added on Monday, 7 December 2015 20:46:14
+
+Let it Be – The Beatles
+==========
+ukulele-wednesdays-songbook-v2 (krzysztof.nsn@gmail.com)
+- Your Highlight at location 31-32 | Added on Monday, 7 December 2015 20:46:39
+
+No Woman No Cry – Bob Marley
+==========
+ukulele-wednesdays-songbook-v2 (krzysztof.nsn@gmail.com)
+- Your Highlight at location 40-40 | Added on Monday, 7 December 2015 20:47:22
+
+Sweet Home Alabama
+==========
+ukulele-wednesdays-songbook-v2 (krzysztof.nsn@gmail.com)
+- Your Bookmark at location 1736 | Added on Monday, 7 December 2015 23:07:40
+
+
+==========
+ukulele-wednesdays-songbook-v2 (krzysztof.nsn@gmail.com)
+- Your Bookmark at location 1769 | Added on Monday, 7 December 2015 23:07:54
+
+
+==========
+Orwell George - Rok 1984 (Unknown author)
+- Your Highlight at location 4112-4112 | Added on Saturday, 12 December 2015 12:14:39
+
+Może to, czego człowiek pragnie najbardziej, to nie tyle być kochanym, ile rozumianym.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Bookmark at location 1946 | Added on Wednesday, 16 December 2015 02:46:14
+
+
+==========
+The 3 Keys to Finding a Satisfying Job (Daphne Stanford)
+- Your Highlight at location 22-23 | Added on Wednesday, 6 January 2016 01:13:06
+
+that the more engaged employees are in their work, the happier they become.
+==========
+RomanEmpire1.pdf  
+- Your Note on page 6 | Added on Sunday, 10 January 2016 09:08:03
+
+23:07
+==========
+RomanEmpire1.pdf  
+- Your Highlight on page 6 | Added on Sunday, 10 January 2016 09:08:03
+
+One
+==========
+RomanEmpire1.pdf  
+- Your Bookmark on page 6 | Added on Sunday, 10 January 2016 09:08:07
+
+
+==========
+RomanEmpire1.pdf  
+- Your Bookmark on page 15 | Added on Sunday, 10 January 2016 09:08:51
+
+
+==========
+RomanEmpire1.pdf  
+- Your Note on page 8 | Added on Tuesday, 12 January 2016 00:02:44
+
+30:45
+==========
+RomanEmpire1.pdf  
+- Your Highlight on page 8 | Added on Tuesday, 12 January 2016 00:02:44
+
+Do
+==========
+RomanEmpire1.pdf  
+- Your Note on page 11 | Added on Sunday, 17 January 2016 23:55:39
+
+38:00
+==========
+RomanEmpire1.pdf  
+- Your Highlight on page 11 | Added on Sunday, 17 January 2016 23:55:40
+
+Our
+==========
+Remote - Jason Fried (Chris)
+- Your Bookmark at location 212 | Added on Sunday, 24 January 2016 14:32:00
+
+
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 2084-2084 | Added on Tuesday, 26 January 2016 18:49:49
+
+Nowiny! O ileż ważniejsze jest znać coś, co się nigdy nie starzeje!
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 2088-2089 | Added on Tuesday, 26 January 2016 18:51:43
+
+niedziela jest bowiem stosownym ukoronowaniem niewłaściwie spędzonego tygodnia, a nie świeżym i śmiałym początkiem nowego
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 2215-2216 | Added on Tuesday, 26 January 2016 19:24:41
+
+Gdy gromadzimy dobra dla siebie albo potomności, zakładamy rodziny albo kładziemy podwaliny państwowości, a nawet zyskujemy sławę – jesteśmy śmiertelni, gdy jednak dochodzimy prawdy, zyskujemy nieśmiertelność
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 2213-2214 | Added on Tuesday, 26 January 2016 19:24:58
+
+Gdyby ludzie bardziej się zastanawiali nad wyborem własnej przyszłości, chyba wszyscy zostaliby przede wszystkim badaczami i obserwatorami, albowiem niewątpliwie wszystkich jednakowo interesuje własna natura i przeznaczenie.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Bookmark at location 2381 | Added on Thursday, 4 February 2016 02:08:17
+
+
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 605-607 | Added on Saturday, 6 February 2016 10:04:23
+
+Odnotowujemy narastającą wściekłość i rozpacz znajdujące także swój wyraz w cichej samotności dzieci z kluczami zawieszonymi na szyi i pozostawianymi z telewizorem w roli opiekuna,
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 614-614 | Added on Saturday, 6 February 2016 10:06:55
+
+Książka ta jest przewodnikiem wskazującym, jak znaleźć sens w tym bezsensie.
+==========
+Traktat o łuskaniu fasoli (Wiesław Myśliwski)
+- Your Highlight at location 44-44 | Added on Sunday, 7 February 2016 00:17:09
+
+Kiedy ludzi może coś podzielić, zawsze się podzielą.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 636-637 | Added on Sunday, 7 February 2016 00:23:26
+
+Upierałbym się przy twierdzeniu, że wspomniane różnice są spowodowane poziomem zdolności określanych tutaj mianem inteligencji emocjonalnej – do których należą: samokontrola, zapał, wytrwałość i zdolność motywacji.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 647-648 | Added on Sunday, 7 February 2016 00:25:15
+
+A jeśli istnieją jakieś dwie postawy moralne, które są szczególnie potrzebne w naszych czasach, to z całą pewnością są nimi właśnie opanowanie i współczucie.
+==========
+Długi film o miłości. Powrót na Broad Peak - fragment (Jacek Hugo-Bader)
+- Your Highlight at location 1317-1321 | Added on Friday, 18 March 2016 00:32:49
+
+Ale wszystko, co łatwo przychodzi, nie ma żadnej wartości – powtarzałem przez całe dzieciństwo moim dzieciom, albo – zawsze jest jakieś dalej, to droga jest ważna, a nie jej cel; lepiej pójść donikąd niż byle gdzie; kto kocha, ten się nie lęka; należy nawiązać walkę, a potem się zobaczy; słowa są tym cenniejsze, im rzadziej wymawiane; łatwiej wisieć na haku, niż myśleć; dzwon dzwoni, bo w środku jest pusty; człowiek staje się kimś w starciu z tym, co stawia mu opór; pół prawdy to całe kłamstwo...
+==========
+Długi film o miłości. Powrót na Broad Peak - fragment (Jacek Hugo-Bader)
+- Your Highlight at location 1614-1617 | Added on Friday, 18 March 2016 16:06:13
+
+Zespół osiągnął cel po wejściu Bieleckiego. Zespół, gdyby był zespołem, zszedłby razem z nim. To by znaczyło, że pozostali członkowie zespołu rezygnują z własnych, osobistych celów i ambicji. To nie Bielecki opuścił zespół. To inni członkowie zespołu porzucili koncepcję pracy zespołowej.
+==========
+Dotknięcie pustki (Joe Simpson)
+- Your Highlight at location 264-266 | Added on Thursday, 31 March 2016 08:16:51
+
+– dobra, wpinam się, zawisam – odpoczynek. To jest to! Czuję, jak sprawnie pracuje moje ciało – jak krąży krew, przepływa ciepło i siła. Tak ma być. „Juuu–huuuuuu!” –
+==========
+Księga ego (OSHO)
+- Your Highlight at location 67-69 | Added on Thursday, 21 April 2016 01:21:06
+
+Nie mogę ci niczego dać, ty już bowiem masz wszystko. Musisz po prostu otrząsnąć się ze snu, obudzić i dostrzec niezwykłe piękno pierwotnej niewinności.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 192-194 | Added on Saturday, 23 April 2016 11:13:02
+
+Wielu ludzi powierzchownie buntuje się czy protestuje. Pragną zaznaczyć, że przestali być konformistami. Tacy ludzie zapuszczają włosy, przestają się myć, stają się hippisami. Na wszelkie możliwe sposoby zaznaczają, że wyłamali się z konwencji społecznych. To jednak tylko zewnętrzne zmiany.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 224-224 | Added on Saturday, 23 April 2016 11:26:55
+
+Na tym właśnie polega atrakcyjność niebezpiecznych sytuacji.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 224-224 | Added on Saturday, 23 April 2016 11:27:05
+
+W takich chwilach ego nagle znika. Na tym właśnie polega atrakcyjność niebezpiecznych sytuacji.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 227-228 | Added on Saturday, 23 April 2016 11:27:18
+
+Stan poważnego zagrożenia życia powoduje, że działasz spontanicznie. Wtedy przestajesz utożsamiać się z ego; możesz rozpoznać, że nim nie jesteś.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 303-304 | Added on Saturday, 23 April 2016 11:39:48
+
+Poprawianie samego siebie stanowi kolejny fałszywy krok, polega bowiem na polerowaniu osobowości.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 335-338 | Added on Saturday, 23 April 2016 12:29:49
+
+Czym jest eksploatacja psychiczna? Polega na tym, że nikt nie może być sobą. Nikt też nie jest akceptowany ani szanowany w swojej prawdziwej postaci. Ludzie szanowani są tylko wówczas, kiedy realizują narzucone im postawy. Nie szanuje się naturalności, spontaniczności, autentycznego wyrażania uczuć. Nagradza się sztuczne, pretensjonalne postawy i odgrywanie ról.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 356-359 | Added on Saturday, 23 April 2016 12:33:25
+
+Dziecko zachowuje naturalne piękno, naturalną świeżość. Nie można tego powiedzieć o dorosłym. Jest zablokowany, zamrożony. Ustaje w nim swobodny przepływ energii, dlatego pojawiają się usztywnienie i obumieranie. Dorosły traci radość życia, pierwotny zachwyt i entuzjazm. Życie przestaje być dla niego owiane mgiełką tajemnicy. Osoba dorosła kieruje się racjonalnym rozumowaniem. Poezja i taniec przestają być dla niej wartościami. Życie traci smak.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 100-102 | Added on Saturday, 23 April 2016 12:41:02
+
+Nawet Aleksander Wielki miał podobne problemy. Złożył przysięgę, że podbije cały świat i złoży go u stóp swojej matki. Nikt wcześniej tego nie dokonał. „Ja” Aleksandra pragnęło, by podbił on cały świat.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 113-114 | Added on Saturday, 23 April 2016 12:41:52
+
+Macie mnie ułożyć w trumnie w ten sposób, żeby moje dłonie znalazły się na zewnątrz. I tak przenieście moje ciało do grobu.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 464-465 | Added on Saturday, 23 April 2016 13:04:22
+
+Zamiast tego narzucano ci rozmaite ideały i wzorce. Miałeś w przyszłości stać się kimś ważnym, szanowanym, mającym władzę, bogatym, wykształconym, sławnym.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 473-474 | Added on Saturday, 23 April 2016 13:06:25
+
+Uważasz, że powinieneś się wspiąć na szczyty drabiny społecznej. Jeśli ci się to nie udaje, pojawia się poczucie niższości. W rezultacie uczysz się rywalizacji, porównujesz się z innymi, walczysz, stosujesz przemoc.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 488-489 | Added on Saturday, 23 April 2016 13:09:15
+
+„Po raz pierwszy zrozumiałem, że bogactwo jest czymś innym niż posiadaniem pieniędzy. Spotkałem bogatego człowieka”.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 489-490 | Added on Saturday, 23 April 2016 13:09:44
+
+Prawdziwe bogactwo polega na twojej autentyczności, szczerości, miłości, prawdzie wewnętrznej, wrażliwości, spokoju. Jest twój wewnętrzny potencjał.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 512-515 | Added on Saturday, 23 April 2016 13:13:20
+
+Mam nadzieję, że wkrótce narodzi się lepsze społeczeństwo, w którym panować będzie zrozumienie. W takim społeczeństwie nikt nie będzie usiłował cię zmieniać. Każdy będzie cię wspierać, abyś stał się sobą. Bycie sobą jest rzeczywistą i najważniejszą wartością. Będąc sobą, czujesz się spełniony. Twoje życie nabiera sensu i znaczenia. Realizujesz swoje powołanie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 528-531 | Added on Saturday, 23 April 2016 13:18:49
+
+Nie ma znaczenia, kim jesteś, jaki wykonujesz zawód, jaka jest twoja społeczna rola. Najważniejsze jest to, że cieszysz się z tego. Wkładasz w tę aktywność całą swoją energię. Twoja rola jest zgodna z tobą. Nie chcesz jej zamienić na nic innego. Na tym właśnie polega twoje wewnętrzne bogactwo, twoja moc.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 533-534 | Added on Saturday, 23 April 2016 19:31:44
+
+Pielęgnowanie ideałów oznacza, że nie jesteś tym, czym chciałbyś być. Ideały wywołują napięcie, lęk i niepokój.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 541-541 | Added on Saturday, 23 April 2016 19:32:57
+
+Jesteś doskonały w swej niedoskonałości.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 569-570 | Added on Saturday, 23 April 2016 19:36:57
+
+Przestań snuć marzenia, tęsknić za ideałami i doskonałością. Skieruj całą energię na celebrację życia. Żyj tu i teraz.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 570-572 | Added on Saturday, 23 April 2016 19:37:35
+
+Perfekcjonizm jest podstawową przyczyną nerwic. Dopóki ludzi nie uwolnią się od pragnienia doskonałości, dopóty nie osiągną zdrowia psychicznego.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 584-586 | Added on Saturday, 23 April 2016 19:42:26
+
+Jezus nauczał, że Bóg jest miłością. Z drugiej jednak strony Bóg odpowiada za istnienie piekła. Jeśli Bóg byłby miłością, powinien natychmiast unicestwić piekło. Idea piekła wiąże się z koncepcją Boga zawistnego.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 604-606 | Added on Saturday, 23 April 2016 20:50:49
+
+Doskonałość oznacza ostateczną śmierć, martwotę. Chciałbym, abyście zapamiętali, że ja jestem niedoskonały i cały wszechświat jest niedoskonały. Mój przekaz brzmi: Kochajcie tę niedoskonałość i radujcie się nią. Nie zabiegajcie o bycie doskonałymi.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 611-613 | Added on Saturday, 23 April 2016 20:52:33
+
+Gniew jako zjawisko przejściowe odgrywa pozytywną rolę. Człowiek, który nie potrafi się złościć, jest pozbawiony siły witalnej. Taka osoba nie będzie też umiała kochać. Jej miłość będzie chłodna. Człowiek, który utracił wszystkie namiętności, staje się sztywny i martwy.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 614-618 | Added on Saturday, 23 April 2016 20:54:06
+
+Wyrażenie złości uwalnia od niej. Kiedy złość zniknie, można odczuć przypływ współczucia. Kiedy przeminie burza złości, można odczuwać ciszę miłości. Istnieje pewien rytm, który łączy nienawiść i miłość, złość i współczucie. Jeżeli jednej z nich zabraknie, zniknie także druga. Jeżeli połkniesz złość, stanie się ona częścią ciebie. Będziesz zły bez powodu. Twoja złość będzie irracjonalna. Będzie przejawiać się w twoich oczach, w twoim smutku, w ponurym nastroju, w powadze. Nie będziesz zdolny do celebracji życia.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 629-629 | Added on Saturday, 23 April 2016 21:00:03
+
+Ambicja jest trucizną.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 629-631 | Added on Saturday, 23 April 2016 21:00:24
+
+Nie twierdzę, że powinieneś się wyrzekać wartości materialnych. Mogą się one w pewnym momencie pojawić w twoim życiu. Nie powinny jednak stanowić pierwotnej motywacji twoich działań.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 634-635 | Added on Saturday, 23 April 2016 21:01:54
+
+Mogę ci jednak pomóc w tym, abyś się całkowicie oddal malowaniu. Wtedy odczujesz prawdziwą radość. Będą to boskie chwile wypełnione miłością i medytacją. Rozpływają się twoje granice, znikasz, a pojawia się Bóg.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 660-664 | Added on Saturday, 23 April 2016 21:05:35
+
+ostatecznym rozrachunku o wartości życia decyduje to, w jaki sposób przeżywaliście każdą jego chwilę. Czy potrafiliście się radować i celebrować życie? Czy potrafiliście odnaleźć szczęście w drobnych wydarzeniach? Czy potrafiliście być szczęśliwi, kiedy braliście kąpiel, piliście herbatę, sprzątaliście dom, pracowaliście w ogrodzie, siedzieliście w ciszy z ukochanym, patrzyliście na księżyc, słuchaliście śpiewu ptaków? Czy w każdym momencie doznawaliście odmieniającej mocy świetlistego szczęścia? Tylko to ma znaczenie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 660-664 | Added on Saturday, 23 April 2016 21:06:33
+
+W ostatecznym rozrachunku o wartości życia decyduje to, w jaki sposób przeżywaliście każdą jego chwilę. Czy potrafiliście się radować i celebrować życie? Czy potrafiliście odnaleźć szczęście w drobnych wydarzeniach? Czy potrafiliście być szczęśliwi, kiedy braliście kąpiel, piliście herbatę, sprzątaliście dom, pracowaliście w ogrodzie, siedzieliście w ciszy z ukochanym, patrzyliście na księżyc, słuchaliście śpiewu ptaków? Czy w każdym momencie doznawaliście odmieniającej mocy świetlistego szczęścia? Tylko to ma znaczenie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 686-686 | Added on Saturday, 23 April 2016 21:09:54
+
+W rzeczywistości porównania nie mają sensu. Każdy człowiek jest bowiem wyjątkową jednostką. Prawdziwą ludzką potrzebą jest nie sława, lecz twórczość, miłość, samoświadomość i medytacja.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 686-689 | Added on Saturday, 23 April 2016 21:10:42
+
+Jeśli czujesz, że narasta w tobie potrzeba pisania wierszy, spełnij ją. Pisz wiersze dla siebie samego, dla żony, dzieci lub przyjaciół. Śpiewaj. Jeżeli nikt nie słucha twego śpiewu, śpiewaj w samotności i ciesz się tym! Nawiąż kontakt z drzewami. One docenią to, co robisz. Rozmawiaj z ptakami i zwierzętami. Zrozumieją cię o wiele lepiej niż inni ludzie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 703-706 | Added on Saturday, 23 April 2016 21:13:57
+
+Jeżeli jesteś przekonana o swojej wyjątkowości, rezultatem może być cierpienie. Jeżeli myślisz, że jesteś lepsza i mądrzejsza od innych, pojawia się w tobie silne ego. To ego staje się trucizną. Odgradza cię od życia. Stajesz się twarda i zamrożona. Brakuje ci ciepła i miłości. Wyjątkowa osoba nie potrafi kochać, gdyż szuka drugiej wyjątkowej osoby.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 714-716 | Added on Saturday, 23 April 2016 21:16:05
+
+Ego jest niezwykle przebiegle. Może ci zaoferować nowe rozwiązanie: „Jesteś kimś wyjątkowym. Wobec tego stań się zwyczajna”. Jednak ego będzie świadome, że jesteś w tej zwyczajności kimś niezwykłym. Nadal będziesz grała w tę samą grę.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 718-721 | Added on Saturday, 23 April 2016 21:17:36
+
+To, co myślisz o sobie, odnieś do innych, a problem zniknie. Wtedy wszyscy są wyjątkowi, nie tylko ludzie, lecz także drzewa, ptaki, zwierzęta, skały. Cała egzystencja jest wyjątkowa. Możesz też użyć określenia „zwyczajny”. W tym ujęciu wszyscy ludzie i cała egzystencja będą zwyczajni. Pamiętaj: to, co myślisz o sobie, odnieś do innych ludzi. Wtedy zniknie ego. Ego jest iluzją, która pojawia się, kiedy wyróżniasz siebie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 750-751 | Added on Saturday, 23 April 2016 21:22:07
+
+Ja jestem „ja”, a ty jesteś „ty”. Porównania wprowadzają konflikt i tworzą fałszywe ambicje.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 759-759 | Added on Saturday, 23 April 2016 21:23:26
+
+Twoje próby zmieniania siebie przypominają dorysowywanie wężowi nóg.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 775-776 | Added on Saturday, 23 April 2016 21:26:01
+
+Nie udzielaj dzieciom encyklopedycznych wyjaśnień, czerpią bowiem one radość z samego faktu zadawania pytań.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 790-795 | Added on Saturday, 23 April 2016 21:30:18
+
+Umysł wypoczywa, a dzięki temu później może skuteczniej działać. Dzięki wypoczynkowi umysł się odświeża i napełnia energią, a twoje wypowiedzi stają się pełne życia, prawdy i znaczenia. Każde słowo napełnione jest mocą. Na tym właśnie polega charyzma: mowa jest pełna mocy, naturalności i płynna niczym utwór poetycki. Umysł, który pracuje przez okrągłą dobę, staje się wyczerpany i znużony. Można go użyć jedynie do wykonywania prostych czynności. Natomiast umysł, który zanurza się w ciszy, nabiera siły i energii. Wówczas każde wypowiedziane słowo trafia wprost do serca. Cisza otwiera nowy wymiar wieczności, nieśmiertelności i błogosławieństwa.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 797-799 | Added on Saturday, 23 April 2016 21:31:09
+
+Medytacja może cię wzbogacić na dwa sposoby: na poziomie absolutnym kontaktuje cię z twoją wewnętrzną istotą, a na poziomie względnym przyczynia się do ujawniania różnorodnych talentów. Może to być talent artysty muzyka, tancerza czy też malarza.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 814-818 | Added on Saturday, 23 April 2016 21:35:54
+
+Nie ma w tym żadnej tajemnicy – odrzekł żebrak. – Przyjrzyj się misce. Jest wykonana z ludzkiej czaszki. – Nie rozumiem – powiedział król. – Nikt nie rozumie. Wewnątrz czaszki znajduje się ludzki umysł. Cokolwiek tam wrzucisz, znika. Umysł zawsze chce więcej. Ciągle jest spragniony i żebrze. Nie możesz tego zmienić. Możesz jedynie to zrozumieć, a wtedy staniesz się wolny.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 829-833 | Added on Saturday, 23 April 2016 21:39:44
+
+Jeżeli zostaniesz premierem, umysł zacznie ci podpowiadać, że powinieneś zostać prezydentem – odpowiedziałem. – Jeżeli będziesz słuchał umysłu, nigdy nie osiągniesz spokoju. Zrezygnuj ze wszystkiego, co zdobyłeś. Kiedy byłeś ubogim człowiekiem, czułeś się radosny i szczęśliwy. Nie doradzam ci, abyś wyzbył się pieniędzy. Po prostu nie pozwól, aby rządził tobą umysł. Wtedy osiągniesz spokój.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 834-834 | Added on Sunday, 24 April 2016 09:06:33
+
+Uważam, że poczucie humoru jest istotnym elementem postawy religijnej.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 856-858 | Added on Sunday, 24 April 2016 09:10:58
+
+Umysł dostarcza nam środków do życia, lecz nie może dostarczyć radości, jest bowiem bardzo poważny. Nie potrafi tolerować nawet śmiechu. Życie pozbawione radości i śmiechu przestaje być ludzkie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 858-859 | Added on Sunday, 24 April 2016 09:11:37
+
+Śmiech wskazuje na wysoki poziom rozwoju świadomości. Człowiek jest jedyną istotą obdarzoną poczuciem humoru
+==========
+Księga ego (OSHO)
+- Your Highlight at location 865-866 | Added on Sunday, 24 April 2016 09:12:47
+
+Należy kierować się miłością, a nie logiką i zimną kalkulacją.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 869-873 | Added on Sunday, 24 April 2016 09:24:24
+
+Umysłem posługujesz się w miejscu swojej pracy. W momencie powrotu do domu aktywność umysłu powinna ustać. Daj umysłowi szansę na odpoczynek. W domu przebywasz ze swymi bliskim, z rodziną i przyjaciółmi. Kieruj się sercem i miłością. Spróbuj też znaleźć nieco czasu na medytację. Wówczas dom stanie się świątynią. Miłość powoduje, że twoje mieszkanie przekształca się w dom promieniujący ciepłem. Medytacja natomiast przekształca dom w świątynię.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 906-908 | Added on Sunday, 24 April 2016 09:30:09
+
+Społeczeństwo programuje cię w ten sposób, że naśladujesz inne osoby. Stajesz się kopią, a nie oryginałem. Społeczeństwo posługuje się sprawdzoną metodą powtarzania określonych informacji. Kłamstwo, które jest wielokrotnie powtarzane, staje się prawdą.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 972-972 | Added on Sunday, 24 April 2016 15:51:12
+
+Chcę ci przekazać jedną wskazówkę: stwórz pewien dystans pomiędzy tobą a umysłem i obserwuj.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1015-1016 | Added on Sunday, 24 April 2016 15:57:43
+
+Czy odczułeś potęgę nocnego nieba usianego gwiazdami? Czy dostrzegłeś urok drobnego liścia tańczącego na wietrze? Dzięki takim doświadczeniom powracasz do źródła swego bytu
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1025-1026 | Added on Sunday, 24 April 2016 16:00:36
+
+świadczą o tym, że chcesz sobie narzucić coś siłą. Ludzie nazywają to dyscypliną.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1038-1039 | Added on Sunday, 24 April 2016 16:02:56
+
+Społeczeństwo zdominowane jest przez ludzi, którzy mają niskie poczucie własnej wartości. Sięgają oni po władzę, by zwiększyć swoje znaczenie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1067-1067 | Added on Sunday, 24 April 2016 16:08:04
+
+Kobiety chcą być atrakcyjne, ponieważ daje im to swego rodzaju władzę
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1082-1086 | Added on Sunday, 24 April 2016 16:10:38
+
+Kobiety nie chcą okazać swego zainteresowania współżyciem seksualnym, bowiem boją się, że zostaną sprowadzone do roli bezwolnego przedmiotu. Dlatego kobiety stosują grę i czerpią satysfakcję z faktu, że mają nad tobą władzę. Jest to niewłaściwy porządek rzeczy, gdyż miłość została sprowadzona do poziomu politycznej gry. Musimy stworzyć świat, w którym miłość nie będzie związana ze sprawowaniem władzy nad drugą osobą. Miłość ma ogromną wartość i nie może być przedmiotem handlu.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1199-1200 | Added on Sunday, 24 April 2016 17:03:27
+
+Odpowiedzialność łączy się z wolnością. Kiedy przenosisz odpowiedzialność na kogoś innego, wyrzekasz się samego siebie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1240-1243 | Added on Sunday, 24 April 2016 17:09:37
+
+Freud stwierdził, że prawda o człowieku przejawia się w jego snach. Dlatego psychoanaliza nie przywiązuje zbytniej wagi do życia na jawie. Nieświadomość stanowi około dziewięciu dziesiątych ludzkiej psychiki, świadomość zaś jedynie jedną dziesiątą. Z tego też względu nasz umysł nieświadomy dysponuje o wiele większą energią.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1250-1253 | Added on Sunday, 24 April 2016 17:12:01
+
+Wypieranie seksu prowadzi do coraz większego zablokowania energii. Przemienia się ona w gniew. Człowiek zaczyna stosować przemoc. Kieruje agresję przeciwko innym ludziom lub przeciw sobie. Z tych właśnie powodów żołnierzom zakazywano stosunków seksualnych. Doprowadzono do pojawienia się frustracji i silnego gniewu.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1272-1275 | Added on Sunday, 24 April 2016 17:18:20
+
+Obejmowanie stanowi wyraz miłości, troski. Ciepło płynące od drugiej osoby rozluźnia napięcia, uzdrawia. W czyichś objęciach znowu stajesz się dzieckiem. Psycholodzy stwierdzili, że dziecko potrzebuje obejmowania, przytulania, pocałunków. Ciało potrzebuje pożywienia, a dusza – miłości.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1307-1308 | Added on Sunday, 24 April 2016 17:26:50
+
+Obejmowanie natychmiast kontaktuje nas z poziomem dziecka, z pierwotną niewinnością. Kiedy obejmujesz drugą osobę z ciepłem i miłością, przywołujesz energię dziecięcej niewinności, która leczy i uzdrawia.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1342-1344 | Added on Sunday, 24 April 2016 17:35:27
+
+Nerwica jest wytworem współczesnego społeczeństwa. Nigdy wcześniej nie występowała tak często. Nerwicę powoduje nadmiar informacji, przeciążający umysł. Ludzka psychika nie jest w stanie ich zasymilować. Wydarzenia toczą się tak szybko i występują w takim nasileniu, że umysł nie jest w stanie tego wszystkiego strawić.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1345-1346 | Added on Sunday, 24 April 2016 17:36:22
+
+Każda godzina aktywnego działania umysłu powinna być zrównoważona godziną medytacji.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1349-1352 | Added on Sunday, 24 April 2016 20:19:41
+
+W dawnych czasach ludzie uprawiali medytację w sposób naturalny. Mieli wystarczająco dużo czasu, by usiąść i w spokoju spoglądać na gwiazdy i na drzewa, wsłuchiwać się w śpiew ptaków. Były to okresy całkowitej bierności. Chwile te umożliwiały regenerację psychiki oraz utrzymanie zdrowia.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1368-1368 | Added on Sunday, 24 April 2016 20:45:35
+
+Zalecam, aby medytować godzinę dziennie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1371-1372 | Added on Sunday, 24 April 2016 20:47:15
+
+Medytacja jest niezbędna, ponieważ umysł nie wypoczywa nawet podczas nocnego snu, jeżeli w ciągu dnia został przeładowany informacjami.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1375-1375 | Added on Sunday, 24 April 2016 20:51:11
+
+Może to być medytacja nieświadoma, czyli praca w ogrodzie, strzyżenie trawnika, zabawa z dziećmi, słuchanie śpiewu ptaków, pływanie w basenie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1397-1398 | Added on Sunday, 24 April 2016 20:58:20
+
+Z tego powodu w trudnych czasach zwiększa się popularność środków odurzających. Narkotyki rozpowszechniły się po drugiej wojnie światowej.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1447-1449 | Added on Monday, 25 April 2016 07:55:19
+
+Zrozumienie pojawia się wraz z wytworzeniem odpowiedniego dystansu. Medytacja stwarza potrzebny dystans i przynosi odpowiednią perspektywę. Dzięki niej możesz spojrzeć na swoje problemy z góry. Jesteś w stanie obserwować je obiektywnie, jakby nie były twoje.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1496-1497 | Added on Monday, 25 April 2016 08:06:48
+
+Uwaga jest energią. Gdy ktoś spogląda na ciebie z miłością, dostarcza ci subtelnego pokarmu.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1501-1505 | Added on Monday, 25 April 2016 08:08:28
+
+Można stwierdzić, że zdecydowana większość chorób, na które cierpią kobiety, jest spowodowana brakiem uwagi i miłości. Psychoanalitycy wykorzystują tę potrzebę uwagi. Są profesjonalnymi dawcami uwagi. Idziesz na godzinną sesję, podczas której jesteś uważnie słuchany. Psychoanalityk zachęca cię, abyś dużo mówił i słucha cię z taką czcią, jakbyś recytował Wedy. Czujesz się dzięki temu doskonale. Zdecydowana większość pacjentów zakochuje się w swoich analitykach. Dzieje się tak dlatego, że otrzymuje od nich dużo uwagi.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1553-1557 | Added on Monday, 25 April 2016 19:52:45
+
+Bez poznania siebie nie możesz być sobą. Dopóki zaś nie jesteś sobą, nie możesz poczuć się swobodnie. Nigdy nie zaznasz zadowolenia i poczucia spełnienia, nie zakorzenisz się w życiu. Będą się pojawiały dyskomfort i poczucie cierpienia oraz braku czegoś istotnego. Masz wszystko, a jednak brakuje czegoś, co nadawałoby tej całości sens. Twój pałac pełen jest skarbów, lecz ty wewnętrznie czujesz się pusty. Taka jest właśnie sytuacja współczesnego człowieka. Doświadcza on ciągłego poczucia braku znaczenia, lęku, niepokoju, strachu.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1624-1626 | Added on Monday, 25 April 2016 23:23:57
+
+Spójrzcie głęboko na wasze związki miłości. Są one bardziej podobne do związków opartych na nienawiści. Ponieważ jednak wszyscy żyją w ten sposób, nie uświadamiacie sobie problemu.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1639-1641 | Added on Monday, 25 April 2016 23:26:45
+
+Nie można jednak doświadczyć ekstazy bez przejścia przez agonię cierpienia. Jeżeli złoto ma być oczyszczone, musi przejść przez hartowanie w ogniu. Tym ogniem jest miłość.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1643-1644 | Added on Monday, 25 April 2016 23:27:56
+
+Człowiek pozbawiony miłości jest narcystyczny, zamknięty w sobie. Taka osoba zna tylko siebie. Czy jest to prawdziwe poznanie, skoro nie zna innych? Przecież tylko inny człowiek może działać jak lustro.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1651-1654 | Added on Monday, 25 April 2016 23:29:41
+
+Unikając trudnych sytuacji, nie będziesz wzrastał. Trzeba przyjąć wyzwanie. Trzeba zaangażować się w miłość. Jest to pierwszy krok, który prowadzi ku Bogu. Nie można go pominąć. Ci, którzy pomijają ten krok, nigdy nie mogą zbliżyć się do Boga. Ten krok jest konieczny, ponieważ stajesz się świadomy siebie w obecności innych ludzi. Wtedy właśnie wychodzisz ze swego zamkniętego, narcystycznego świata na otwartą przestrzeń.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1659-1660 | Added on Monday, 25 April 2016 23:30:55
+
+Miłość daje ci pierwsze doświadczenie bycia w harmonii z czymś, co nie jest twoim ego. Miłość daje ci pierwszą lekcję, że możesz wejść w harmonijny kontakt z kimś, kto nigdy nie był częścią twego ego.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1711-1713 | Added on Tuesday, 26 April 2016 07:41:26
+
+Jeżeli będziesz chciał porzucić ego, wpadniesz w tarapaty. Któż bowiem chce to uczynić? To ego, które prowadzi nową grę zwaną duchowością, religiijnością i samorealizacją. Kto stawia to pytanie? Ego, które chce cię oszukać.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1709-1711 | Added on Tuesday, 26 April 2016 07:42:25
+
+Jeśli chcesz, by panowała ciemność, wyłączasz światło. Jeśli chcesz rozproszyć mrok, włączasz je. Nie można porzucić ego. Należy natomiast uczyć się medytacji. Medytacja działa jak światło. Jest światłem.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 1762-1765 | Added on Tuesday, 26 April 2016 07:57:40
+
+Także w tobie istnieje silne ego, które starasz się ukryć pod warstwą pokory. Powierzchowna pokora nikogo nie wprowadzi w błąd. Nie udaje ci się oszukać innych ludzi. Tego rodzaju proces zachodzi, kiedy próbujesz odrzucić niedojrzale ego. Moje nauczanie może wydawać się wewnętrznie sprzeczne. Jednak sprzeczności są integralną częścią życia. Nauczam was postawy egoistycznej, abyście się mogli uwolnić od ego.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 49-50 | Added on Thursday, 28 April 2016 09:11:56
+
+Something about the social pressures of adolescence and professional pressures of young adulthood squeezes the passion out of us. We’re taught that the only reason to do something is if we’re somehow rewarded for it.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 61-62 | Added on Friday, 29 April 2016 09:36:32
+
+realized my passion wasn’t for the games themselves (although I do love them). My passion is for improvement, being good at something and then trying to get better.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 62-63 | Added on Friday, 29 April 2016 09:36:48
+
+It’s the competition — with others, but especially with myself — that I thrive on.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 68-69 | Added on Tuesday, 3 May 2016 21:24:07
+
+Before you are able to be good at something and do something important, you must first suck at something and have no clue what you’re doing.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 69-70 | Added on Tuesday, 3 May 2016 21:24:22
+
+And in order to suck at something and have no clue what you’re doing, you must embarrass yourself in some shape or form, often repeatedly.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 83-84 | Added on Tuesday, 3 May 2016 21:25:58
+
+Great things are, by their very nature, unique and unconventional. Therefore, to achieve them, we must go against the herd mentality. And to do that is scary.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 84-85 | Added on Tuesday, 3 May 2016 21:26:34
+
+Feeling foolish is part of the path to achieving something important, something meaningful
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 85-85 | Added on Tuesday, 3 May 2016 21:26:40
+
+The more a major life decision scares you, chances are the more you need to be doing it.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 94-95 | Added on Tuesday, 3 May 2016 21:28:37
+
+And that feeling of making a difference is ultimately what’s most important for your own happiness and fulfillment.
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 113-114 | Added on Tuesday, 3 May 2016 22:57:34
+
+“If you had a year to live, what would you do?”
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Note at location 113 | Added on Tuesday, 3 May 2016 22:58:52
+
+zadawac spotkanym ludziom takie pytanje
+==========
+7 Strange Questions That Help You Find Your Life Purpose (Mark Manson)
+- Your Highlight at location 113-114 | Added on Tuesday, 3 May 2016 22:58:52
+
+“If you had a year to live, what would you do?”
+==========
+Księga ego (OSHO)
+- Your Highlight at location 2015-2018 | Added on Monday, 9 May 2016 19:46:37
+
+Nie podążajcie za lękiem, ponieważ w ten sposób stajecie się tchórzami, degradujecie jako ludzie, upokarzacie samych siebie. Kiedykolwiek dostrzegacie jakiś lęk, przeciwstawcie się mu. Dzięki temu będziecie wzrastać i rozwijać się. W pewnym momencie ego po prostu odpadnie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 2043-2045 | Added on Monday, 9 May 2016 19:49:24
+
+Warto pojąć różnicę pomiędzy pracą i zabawą. Praca jest skierowana na określony cel, stanowi środek do jego osiągnięcia. Sama w sobie nie ma znaczenia. Zabawa jest natomiast czymś zupełnie innym. Jest celem samym w sobie.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 2188-2188 | Added on Monday, 9 May 2016 21:46:34
+
+„Okazuj wszystkim wdzięczność”.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 2220-2223 | Added on Thursday, 19 May 2016 09:38:25
+
+Różnica jest subtelna, lecz bardzo jasna. Egocentryzm powoduje pojawienie się coraz większego cierpienia. Cierpienie zaś dowodzi istnienia choroby. Egocentryzm jest chorobą – rakiem duszy. Wywołuje coraz większe napięcie, nie pozwala się odprężyć. Prowadzi do choroby psychicznej. Miłość do siebie jest przeciwieństwem egocentryzmu. Pozwala głęboko się odprężyć.
+==========
+Księga ego (OSHO)
+- Your Highlight at location 2224-2226 | Added on Thursday, 19 May 2016 09:39:03
+
+miłość do samego siebie nie powoduje konfliktu, trwa w ciszy i jest niezwykłą rozkoszą. Jesteś sam. Nikt ci nie przeszkadza. Nikt ci nie jest potrzebny. Uważam, że osoba zdolna do głębokiego kochania samej siebie staje się zdolna do kochania innych.
+==========
+Mowa ciszy (Eckhart Tolle)
+- Your Highlight at location 38-40 | Added on Tuesday, 24 May 2016 09:08:01
+
+Kiedy tracisz kontakt z wewnętrzną CISZĄ, tracisz kontakt ze sobą. Kiedy tracisz kontakt ze sobą, zatracasz się w świecie.
+==========
+Mowa ciszy (Eckhart Tolle)
+- Your Highlight at location 40-41 | Added on Tuesday, 24 May 2016 09:08:40
+
+Twoje najgłębsze poczucie siebie, tego kim jesteś, i CISZA – są nie rozłączne.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 212-212 | Added on Thursday, 2 June 2016 09:46:58
+
+the heart of social anxiety disorder is anxiety due to concern about what others might think of you.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 213-213 | Added on Thursday, 2 June 2016 09:48:11
+
+social anxiety disorder vary widely, but the most common ones are public speaking, conversations with unfamiliar people, dating, and being assertive.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 281-281 | Added on Sunday, 5 June 2016 10:26:06
+
+this-Invest Anxiety in a Calmer Future.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 283-285 | Added on Sunday, 5 June 2016 10:27:33
+
+As you start to analyze some of the thoughts and fears you have about yourself and the world around you, you might find that some of them are embarrassing or seem childish to you. Speak up about them. The thoughts and fears that cause you the most distress are the most important ones to talk about.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 307-307 | Added on Sunday, 5 June 2016 13:13:35
+
+take a deep breath and we'll start this exciting journey together.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 419-419 | Added on Sunday, 5 June 2016 19:03:12
+
+Shuffling feet and reduced eye contact are behaviors often associated with anxiety.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 447-449 | Added on Sunday, 5 June 2016 19:09:36
+
+Did you eat by yourself or join your co-workers for lunch? Did you take the opportunity to chat with the attractive single man or woman who started a conversation with you? Did you raise your hand to volunteer when they were looking for help with
+the new project at work/school/church/community organization?
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 477-479 | Added on Sunday, 5 June 2016 19:16:18
+
+If you can learn to recognize the signs that the anxiety spiral is starting and you have the tools to change what is happening, then you can begin to overcome the anxiety and take charge of your life.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 525-527 | Added on Tuesday, 7 June 2016 09:30:54
+
+certainly our fundamental beliefs about life start to form in early childhood. These beliefs include whether or not you can trust other people, whether events happen to us in a predictable or unpredictable fashion, whether life is under our control or whether we are mostly vulnerable to the whims of fate and powerful other people. We also start to learn whether we are valuable and worthwhile individuals.
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Note at location 704 | Added on Wednesday, 8 June 2016 21:21:35
+
+1:10
+2:
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 704 | Added on Wednesday, 8 June 2016 21:21:35
+
+
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Note at location 704 | Added on Wednesday, 8 June 2016 21:23:48
+
+1:10
+2:7 quite much, but without regular trainings it would be hard
+3:
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Note at location 704 | Added on Wednesday, 8 June 2016 21:25:09
+
+1:10
+2:7 quite much, but without regular trainings it would be hard
+3:10
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Highlight at location 713-714 | Added on Friday, 10 June 2016 08:34:14
+
+everyone who experiences social anxiety fears being viewed negatively by others or performing poorly in social situations,
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Bookmark at location 1253 | Added on Sunday, 12 June 2016 00:21:33
+
+
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Bookmark at location 6363 | Added on Sunday, 12 June 2016 00:53:00
+
+
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:04:25
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? jakie wyzwanie/problem pamietam szczegolnie?
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 2566-2566 | Added on Thursday, 30 June 2016 10:04:25
+
+wszelkich barw i jakości, najniższy stan, do jakiego może upaść
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:07:06
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:11:08
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:15:12
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:18:00
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? (moze musialbym zastanowic sie nad sroowiskiem  pracy?) jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+taki np. kuba on ogarnia wszystko od pdstaw. 
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:19:28
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? (moze musialbym zastanowic sie nad sroowiskiem  pracy?) jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+taki np. kuba on ogarnia wszystko od pdstaw. To troche jak bylo  nauka matematyki. Wiekszosc ma z nia problem, glownie dlaatego ze maja braki w jakis dzialach
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:20:39
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? (moze musialbym zastanowic sie nad sroowiskiem  pracy?) jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+taki np. kuba on ogarnia wszystko od pdstaw. Umie postawic wszystko od zera, a przgnajmniej wie jakby sie za to zabrl. To troche jak bylo  nauka matematyki. Wiekszosc ma z nia problem, glownie dlaatego ze maja braki w jakis dzialach. 
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:23:06
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? (moze musialbym zastanowic sie nad sroowiskiem  pracy?) jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+taki np. kuba on ogarnia wszystko od pdstaw. Umie postawic wszystko od zera, a przgnajmniej wie jakby sie za to zabrl. Systematycznie robil kroki w przod, uczac sie co chwile jakis fragmentow. wkadal w to duzo pracy,  (czasu i zaangazowania, efektywnie spedza czas w pracy,nie gra w fife w wolnych chwilach a mysli, rozwiazuje wyzwniaa)To troche jak bylo  nauka matematyki. Wiekszosc ma z nia problem, glownie dlaatego ze maja braki w jakis dzialach. 
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:25:40
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? (moze musialbym zastanowic sie nad sroowiskiem  pracy?) jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+taki np. kuba on ogarnia wszystko od pdstaw. Umie postawic wszystko od zera, a przgnajmniej wie jakby sie za to zabrl. Systematycznie robil kroki w przod, uczac sie co chwile jakis fragmentow. wkadal w to duzo pracy,  (czasu i zaangazowania, efektywnie spedza czas w pracy,nie gra w fife w wolnych chwilach a mysli, rozwiazuje wyzwniaa). W pracy jak jest cos do zrobienia cos czego jeszcze nie robil to sie za to zabiera (jak za kolejny dzial ktory chce opanowac), zawsze byl o krok do przodu. To troche jak bylo  nauka matematyki. Wiekszosc ma z nia problem, glownie dlaatego ze maja braki w jakis dzialach. 
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:28:24
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? (moze musialbym zastanowic sie nad sroowiskiem  pracy?) jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+taki np. kuba on ogarnia wszystko od pdstaw. Umie postawic wszystko od zera, a przgnajmniej wie jakby sie za to zabrl. Systematycznie robil kroki w przod, uczac sie co chwile jakis fragmentow. wkadal w to duzo pracy,  (czasu i zaangazowania, efektywnie spedza czas w pracy,nie gra w fife w wolnych chwilach a mysli, rozwiazuje wyzwniaa). W pracy jak jest cos do zrobienia cos czego jeszcze nie robil to sie za to zabiera (jak za kolejny dzial ktory chce opanowac), zawsze byl o krok do przodu. To troche jak bylo  nauka matematyki. Wiekszosc ma z nia problem, glownie dlaatego ze maja braki w jakis dzialach. 
+Od takich osob mozna sie uczyc sposobu myslenia,  podejscia do rozwiazywania problemow.
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:30:28
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? (moze musialbym zastanowic sie nad sroowiskiem  pracy?) jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+taki np. kuba on ogarnia wszystko od pdstaw. Umie postawic wszystko od zera, a przgnajmniej wie jakby sie za to zabrl. Systematycznie robil kroki w przod, uczac sie co chwile jakis fragmentow. wkadal w to duzo pracy,  (czasu i zaangazowania, efektywnie spedza czas w pracy,nie gra w fife w wolnych chwilach a mysli, rozwiazuje wyzwniaa). W pracy jak jest cos do zrobienia cos czego jeszcze nie robil to sie za to zabiera (jak za kolejny dzial ktory chce opanowac), zawsze byl o krok do przodu. Tych klockow (nauczonych koncepcji, paradygmatow, sposobow wnioskown) mial poznij duzo. To troche jak bylo  nauka matematyki. Wiekszosc ma z nia problem, glownie dlaatego ze maja braki w jakis dzialach. 
+Od takich osob mozna sie uczyc sposobu myslenia,  podejscia do rozwiazywania problemow.
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Note at location 2566 | Added on Thursday, 30 June 2016 10:33:01
+
+co mnie ekscytuje w pracy? co ostatnio bylo ekscytujace? jakie wyzwania mialem w pracy? (moze musialbym zastanowic sie nad sroowiskiem  pracy?) jakie wyzwanie/problem pamietam szczegolnie? Jakiego typu sytuacje w pracy sa dla mnie ciekawe/ekscytuce?
+taki np. kuba on ogarnia wszystko od pdstaw. Umie postawic wszystko od zera, a przgnajmniej wie jakby sie za to zabrl. Systematycznie robil kroki w przod, uczac sie co chwile jakis fragmentow. wkadal w to duzo pracy,  (czasu i zaangazowania, efektywnie spedza czas w pracy,nie gra w fife w wolnych chwilach a mysli, rozwiazuje wyzwniaa). W pracy jak jest cos do zrobienia cos czego jeszcze nie robil to sie za to zabiera (jak za kolejny dzial ktory chce opanowac), zawsze byl o krok do przodu. Tych klockow (nauczonych koncepcji, paradygmatow, sposobow wnioskown) mial poznij duzo. To troche jak bylo  nauka matematyki. Wiekszosc ma z nia problem, glownie dlaatego ze maja braki w jakis dzialach. 
+Od takich osob mozna sie uczyc sposobu myslenia,  podejscia do rozwiazywania problemow.
+
+W korpo nke podchodzisz holistycznie do prpblemow. Zajmujesz sie jakas malutka czescia, wycinkiem. w malych fiah teo nie ma jes iaczej
+
+Czy zajalbym sie IT gdyby nie rodzice? Czym bym sie wtedy zajal? 
+
+Co sprawia ze chce pracowac w it? Wizja zarabiania duzych pieniedzy? (z wzglednie znana sciezka jak mozna tam dotrzec? ) Po co bylyby mi te pieniadze? (rodzina? co dokladnie?)
+
+W dziecinstwie zakorzenione slowa ze nie chce pracowac tak jak rodzice  - tak duzo,byc moze majac tym samym malo czasu dla domu, uczyc sie cale zycie (nie bylismy tez czescia ich pracy, nie opowiadali o tym za duzo). Cokolwiek w zyciu bym ne robil i mial dzieci, nie chcilbym im dac takiego przekonania. 
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 1273-1274 | Added on Sunday, 3 July 2016 00:41:49
+
+Mózg emocjonalny, zupełnie oddzielony od rejonów, które badają testy inteligencji, kontroluje zarówno wściekłość, jak i współczucie.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 1353-1356 | Added on Sunday, 3 July 2016 00:54:18
+
+zwany inteligencją emocjonalną, a obejmujący takie talenty, jak zdolność motywacji i wytrwałość w dążeniu do celu mimo niepowodzeń, umiejętność panowania nad popędami i odłożenia na później ich zaspokojenia, regulowania nastroju i niepoddawania się zmartwieniom upośledzającym zdolność myślenia, wczuwania się w nastroje innych osób i optymistycznego patrzenia w przyszłość.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 1405-1408 | Added on Sunday, 3 July 2016 01:02:35
+
+Osoby o dobrze wykształconych i rozwiniętych umiejętnościach emocjonalnych są też na ogół bardziej zadowolone z życia i działają skuteczniej, ponieważ opanowały biegle nawyki umysłowe zwiększające ich operatywność, natomiast osoby, które nie potrafią zapanować nad swym życiem emocjonalnym, toczą wewnętrzne walki ograniczające ich zdolność skupienia się na pracy i jasnego myślenia.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Bookmark at location 1403 | Added on Tuesday, 5 July 2016 01:38:27
+
+
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3483-3489 | Added on Tuesday, 5 July 2016 09:41:32
+
+„Dzieci, które nie potrafią odczytywać ani wyrażać emocji, czują się stale sfrustrowane. W istocie rzeczy, nie rozumieją, co się dzieje. Ten rodzaj komunikacji jest stałym podtekstem wszystkiego, co robisz. Nie możesz powstrzymywać swej mimiki czy gestykulacji ani ukryć tonu głosu. Jeżeli popełniasz błędy w wysyłanych przez siebie komunikatach emocjonalnych, to stale spotykasz się z dziwnymi reakcjami innych – odtrącają cię, a ty nie wiesz, dlaczego. Jeżeli myślisz, że zachowujesz się radośnie, ale w rzeczywistości wydajesz się za bardzo ożywiony albo zły, to stwierdzasz, że inne dzieci złoszczą się na ciebie i nie rozumiesz, dlaczego. Na koniec zaczynają odczuwać, że nie mają żadnego wpływu na to, jak traktują je inni, co się im przydarza. W rezultacie czują się bezsilne, przygnębione i apatyczne”.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3474-3477 | Added on Tuesday, 5 July 2016 09:42:48
+
+Oprócz dzieci unikanych z powodu ich awanturniczego usposobienia wszystkie inne spotykające się z odtrąceniem wykazują bez wyjątku brak podstawowych umiejętności koniecznych do nawiązywania bezpośrednich stosunków, a zwłaszcza nieznajomość reguł, które rządzą nawiązywaniem i utrzymywaniem poprawnych kontaktów z innymi.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Bookmark at location 2560 | Added on Wednesday, 20 July 2016 03:13:31
+
+
+==========
+Męskość (kfilipowski@gmail.com)
+- Your Highlight at location 35-37 | Added on Friday, 5 August 2016 00:42:29
+
+O ile kobieta przeżywa swoją wartość w kategoriach estetycznych (chce być piękna i atrakcyjna), tak mężczyzna dba o swoją kondycję fizyczną i intelektualną.
+==========
+Męskość (kfilipowski@gmail.com)
+- Your Highlight at location 125-127 | Added on Friday, 5 August 2016 00:51:54
+
+Drugim etapem jest przejście od postawy biorę do postawy daję. Umiejętność ta jest konieczna, by młody człowiek potrafił stać się darem dla własnej żony i ich dziecka.
+==========
+Męskość (kfilipowski@gmail.com)
+- Your Highlight at location 160-161 | Added on Friday, 5 August 2016 00:55:33
+
+Tak więc głównym zadaniem ojca w rodzinie jest aktywna obecność, która wyraża się przede wszystkim troską wychowawczą i dzieleniem na równi z żoną wszystkich spraw życia rodzinnego.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 2942-2943 | Added on Sunday, 21 August 2016 10:47:42
+
+Nie jestem bardziej samotny aniżeli nur na stawie – ptak śmiejący się tak głośno, ani też bardziej aniżeli sam staw Walden.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 2845-2847 | Added on Sunday, 21 August 2016 10:49:14
+
+Wszelako wiem z doświadczenia, że najmilsze i najserdeczniejsze, najbardziej niewinne i zachęcające towarzystwo można znaleźć w każdym tworze Natury; znajdzie je nieszczęsny mizantrop i największy melancholik. W najczarniejszą melancholię nie popadnie ten, kto żyje pośród Natury, albowiem znajduje w niej spokój dla swoich zmysłów.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 2856-2863 | Added on Sunday, 21 August 2016 10:50:45
+
+Nigdy nie czułem się samotny ani w najmniejszym stopniu zgnębiony przez uczucie samotności, prócz jednego razu, a było to kilka tygodni po moim sprowadzeniu się do lasu; wówczas ogarnęły mnie na godzinę wątpliwości, czy aby zachować pogodę i zdrowie, nie powinienem koniecznie żyć w bliskim sąsiedztwie człowieka. Nieprzyjemnie czułem się sam. Zarazem jednak miałem świadomość, że popadanie w taki nastrój to lekkie szaleństwo, i przewidywałem szybka się z niego wydobyć. Padał drobny deszcz, a ja, zajęty swoimi myślami, nagle zdałem sobie sprawę, że wszak w samej Naturze znajduję przemiłe i dobroczynne towarzystwo – w głuchym kapaniu kropel, w każdym dźwięku i widoku wokół domu – bezgraniczną, niewytłumaczalną życzliwość, która niespodzianie zaczęła mnie pokrzepiać niby atmosfera, aż korzyści, jakie według swoich wyobrażeń mógłbym czerpać z towarzystwa człowieka, stały się nieistotne i od tego czasu nigdy nie powróciłem do nich myślą.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3030-3032 | Added on Sunday, 21 August 2016 11:00:55
+
+Myślę, że lubię towarzystwo w takim samym stopniu, w jakim lubi je większość ludzi, i gotów jestem przyssać się niby pijawka do każdego napotkanego człowieka pełnej krwi. Nie mam natury pustelnika
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Bookmark at location 725 | Added on Sunday, 21 August 2016 11:07:41
+
+
+==========
+Managing Social Anxiety: A Cognitive-Behavioral Therapy Approach Client Workbook (Treatments That Work) (Debra A. Hope;Richard G. Heimberg;Harlan A. Juster;Cynthia  L. Turk)
+- Your Bookmark at location 427 | Added on Sunday, 21 August 2016 13:35:27
+
+
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3071-3073 | Added on Monday, 22 August 2016 13:47:33
+
+Opinia o człowieku nie powinna opierać się na obiadach, które wydaje. Jeżeli idzie o mnie, nigdy z większym skutkiem nie odstraszano mnie od bywania w czyimś domu – nie dokonał tego nawet żaden Cerber – aniżeli ceremoniami czynionymi wokół wydanego na moją cześć obiadu, co poczytywałem za bardzo grzeczną i zakamuflowaną aluzję, abym już nigdy nie sprawił tyle kłopotu.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3049-3051 | Added on Monday, 22 August 2016 13:48:32
+
+Rozmowa z towarzyszem, który stał po przeciwnej stronie stawu, była dla mnie niezwykłym luksusem. W domu przebywaliśmy tak blisko siebie, że nie potrafiliśmy zacząć słuchać – nie umieliśmy mówić dostatecznie cicho, aby być słyszanym;
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3180-3183 | Added on Monday, 22 August 2016 14:59:27
+
+Innym znów razem, gdy usłyszał ode mnie definicję człowieka, której autorem był Platon – „stworzenie dwunożne, nieopierzone” – a następnie opowieść o tym, jak ktoś później pokazał oskubanego koguta i nazwał go człowiekiem Platona[209], drwal zauważył, że istotna różnica polega na tym, iż kogutowi kolana zginają się w niewłaściwą stronę.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3191-3192 | Added on Monday, 22 August 2016 15:01:06
+
+Wszelako nigdy nie udało mi się żadnym manewrem wykrzesać z niego uduchowionego spojrzenia na świat; najwznioślejszym z jego pojęć były po prostu korzyść i wygoda, czyli to samo, co – można by oczekiwać – ceni sobie zwierzę;
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3191-3193 | Added on Monday, 22 August 2016 15:01:25
+
+Wszelako nigdy nie udało mi się żadnym manewrem wykrzesać z niego uduchowionego spojrzenia na świat; najwznioślejszym z jego pojęć były po prostu korzyść i wygoda, czyli to samo, co – można by oczekiwać – ceni sobie zwierzę; na dobrą sprawę tak to też wygląda u większości ludzi.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3243-3257 | Added on Monday, 22 August 2016 15:17:10
+
+Ludzi pracy, nawet farmerów, zajmował jedynie problem mojej samotności i zajęć oraz wielkiego oddalenia, w jakim żyłem od takiego czy innego miejsca, i wprawdzie twierdzili, że niekiedy uwielbiają wędrować po lesie, aliści było to oczywistą nieprawdą. Ludzie nie znający spoczynku, oddani pracy, których cały czas upływał na zarabianiu na chleb lub utrzymaniu tego, co już zdobyli. Pastorzy, którzy mówili o Bogu w taki sposób, jak gdyby posiadali na to monopol, i którzy nie znosili różnicy zdań; doktorzy, prawnicy, niespokojne gospodynie domowe, które pod moją nieobecność wścibiały nos w mój kredens i łóżko – jakże inaczej pani… odkryłaby, że moja pościel nie jest taka czysta jak jej? Młodzi ludzie, którzy przestali być młodzi i doszli do wniosku, że najbezpieczniej jest podążać bitym traktem zawodowym – wszystkie te osoby na ogół twierdziły, że w wybranym przeze mnie położeniu niemożliwe jest zdziałać tyle samo dobrego. „W tym sęk cały.”[216] Starych, niedołężnych i bojaźliwych, niezależnie od wieku i płci, najbardziej zajmowały choroby, nagłe wypadki i zgony; życie wydawało im się pełne niebezpieczeństw – a jakże powstaje niebezpieczeństwo, jeśli nie w umyśle? – i byli zdania, że rozważny człowiek wybierze najbezpieczniejsze położenie, to znaczy takie, w którym doktor B.[217] zjawi się na każde wezwanie. Miasteczko stanowiło dla nich dosłownie społeczność, ligę wzajemnej obrony i wedle wszelkich przypuszczeń nie wybraliby się oni na jagody bez apteczki. Sprowadza się to do faktu, że jeśli człowiek żyje, zawsze istnieje niebezpieczeństwo jego zejścia z tego świata, aczkolwiek na wstępie należy uznać, że owo niebezpieczeństwo jest proporcjonalnie mniejsze w wypadku człowieka, który pozostaje martwy za życia. Kto nie ryzykuje, ten nie jedzie.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3684-3685 | Added on Sunday, 28 August 2016 18:25:21
+
+Dopiero gdy zabłądzimy, czyli innymi słowy, zgubiwszy drogę, zgubimy się na tym świecie, zaczynamy naprawdę odnajdywać siebie i zdawać sobie sprawę z naszego położenia i z nieskończonej liczby naszych związków.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Highlight at location 3702-3704 | Added on Sunday, 28 August 2016 18:28:43
+
+Jestem przekonany, że gdyby wszyscy ludzie żyli w takiej prostocie jak ja nad stawem, nie znano by złodziejstwa ani rabunku. Istnieją one tylko w społeczeństwach, w których kilku posiada więcej, aniżeliby im wystarczyło, podczas gdy reszta ma mniej, niż należy.
+==========
+Walden czyli życie w lesie (Henry David Thoreau)
+- Your Bookmark at location 3997 | Added on Monday, 29 August 2016 12:09:16
+
+
+==========
+Korekta (Thomas Bernhard)
+- Your Bookmark at location 3991 | Added on Wednesday, 23 November 2016 21:25:12
+
+
+==========
+Ayahuasca – nauczycielka i uzdrowicielka duszy - NowaSwiadomosc.pl - Twoja droga rozwoju duchowego (Driada)
+- Your Highlight at location 68-69 | Added on Tuesday, 29 November 2016 13:36:21
+
+Można zatem powiedzieć, że jest ona balsamem na zmęczoną cywilizacją oraz życiem z dala od przyrody, zagubioną ludzką duszę.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3526-3528 | Added on Tuesday, 29 November 2016 13:46:41
+
+Dzieci mile widziane przez rówieśników przed próbą przyłączenia się do grupy poświęcają dużo czasu na obserwację, a potem robią coś, co świadczy o tym, że akceptują reguły gry. Przed przejęciem inicjatywy (polegającym na zaproponowaniu tego, co grupa ma robić) czekają na potwierdzenie swojej w niej pozycji.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3523-3525 | Added on Tuesday, 29 November 2016 13:46:59
+
+A to z reguły robią dzieci nielubiane: pchają się do grupy na siłę, starają się zbyt nagle albo zbyt wcześnie zmienić temat dyskusji czy zabawy, wyrażają, nieproszone, swoje opinie albo po prostu od razu nie zgadzają się z innymi.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3530-3532 | Added on Tuesday, 29 November 2016 13:47:20
+
+Taktyka stosowana przez Rogera w celu przyłączenia się do grupy polegała na jej obserwowaniu, następnie naśladowaniu tego, co robiło inne dziecko i na koniec zagadnięciu tego dziecka i pełnym włączeniu się do zabawy. Była to taktyka zwycięska.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3540-3542 | Added on Tuesday, 29 November 2016 13:52:16
+
+Dane dotyczące opanowywania złości i zarażenia emocjonalnego zdają się świadczyć o tym, że skuteczną metodą może być w takim wypadku najpierw odwrócenie uwagi rozzłoszczonej osoby, potem wczucie się w jej sytuację i ujrzenie spraw jej oczami, na koniec zainteresowanie jej inną sprawą, która wywoła u niej bardziej pozytywne uczucia – czyli coś w rodzaju emocjonalnego judo.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3565-3567 | Added on Tuesday, 29 November 2016 13:52:39
+
+Co piłeś? – spytał staruszek, patrząc promiennie na pijaka. – Sake, ale to nie twój zakichany interes – wrzasnął tamten. – O, to cudownie, wprost cudownie – odparł ciepłym tonem staruszek. – Widzisz, ja też lubię sake. Co wieczór ja i moja żona...
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3647-3648 | Added on Tuesday, 29 November 2016 14:03:20
+
+mężczyźni i kobiety oczekują czegoś zupełnie innego od rozmowy: mężczyźni są zadowoleni, mogąc rozmawiać o „rzeczach”, podczas gdy kobiety szukają więzi emocjonalnych.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3944-3945 | Added on Tuesday, 29 November 2016 15:56:24
+
+niektórych z naszych najgłębszych potrzeb: potrzeby bycia kochanym i szanowanym, lęku przed odrzuceniem albo deprywacją emocjonalną.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 3966-3967 | Added on Friday, 2 December 2016 12:38:56
+
+poprzez pochwycenie tych myśli i przeciwstawienie się im – zamiast się wściekać albo odczuwać ból – można się wyzwolić spod ich wpływu
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 4109-4109 | Added on Friday, 2 December 2016 12:55:11
+
+Uwagi krytyczne, które powinny być wyrażane w formie wątpliwości, co stwarza dobrą podstawę do usunięcia ich przyczyn,
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 4412-4414 | Added on Monday, 5 December 2016 00:19:07
+
+liderzy wyróżniają się inną jeszcze umiejętnością – przejmowaniem inicjatywy, to znaczy silną motywacją, aby podejmować się zadań nienależących do ich obowiązków służbowych, oraz umiejętnym kierowaniem własnym czasem i pracą.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 4435-4438 | Added on Saturday, 10 December 2016 01:17:24
+
+W krainie chorych emocje rządzą niepodzielnie; dominującą reakcją jest lęk. Jesteśmy tak wątli emocjonalnie, kiedy nam coś dolega, dlatego że nasze dobre samopoczucie opiera się częściowo na złudnym przekonaniu, iż nic się nam nie może stać. Choroba – zwłaszcza poważna – rozwiewa te złudzenia, kwestionując założenie, że nasz prywatny świat jest bezpieczny. Zaczynamy nagle czuć się słabi, bezradni i bezbronni.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 4824-4825 | Added on Saturday, 17 December 2016 14:19:20
+
+„Stosunki z osobami, z którymi spotykasz się codziennie, są najważniejsze w twoim życiu i zdają się mieć kluczowe znaczenie dla twojego zdrowia. A im większą przywiązujesz do nich wagę, tym bardziej wpływają na twoje zdrowie”
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 4831-4837 | Added on Saturday, 17 December 2016 14:21:54
+
+James Pennebaker, psycholog z Południowego Uniwersytetu Metodystycznego, który wykazał w serii eksperymentów, że skłonienie ludzi do podzielenia się z innymi trapiącymi ich myślami ma dobroczynny dla ich zdrowia skutek44. Jego metoda jest zadziwiająco prosta: prosi on pacjentów, by przez mniej więcej pięć dni zapisywali przez piętnaście do dwudziestu minut dziennie na przykład „najbardziej wstrząsające przeżycie w całym swoim życiu” albo to, co najbardziej martwi ich w danym momencie. Każdy, jeśli chce, może swoje zapiski zatrzymać wyłącznie dla siebie i nie musi pokazywać ich nikomu. Ogólny efekt takiego wyznania jest zdumiewający; składa się nań zwiększona odporność organizmu, znaczący spadek wizyt w ośrodkach zdrowia
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5011-5012 | Added on Saturday, 17 December 2016 20:15:55
+
+Nie potrafią wykorzystać brzemiennych w emocje chwil jako okazji zbliżenia się do dziecka czy do udzielenia mu praktycznej lekcji umiejętności emocjonalnych.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5214-5216 | Added on Sunday, 1 January 2017 02:19:04
+
+Pamiętajmy, że prymitywne inklinacje limbicznych ośrodków mózgu zaczynają odgrywać dominującą rolę w chwilach, gdy zaczyna nas ogarniać pasja albo gdy znajdujemy się w kryzysowej sytuacji. W takich momentach, bez względu na wszystko, górę biorą nawyki, których mózg emocjonalny uczył się bez przerwy.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5449-5452 | Added on Tuesday, 3 January 2017 02:08:02
+
+Podczas gdy dorośli, którzy przeżyli ciężki uraz, wykazują często psychiczne odrętwienie, blokowanie albo wypieranie wspomnień o katastrofie i związanych z nią uczuć, to psychika dzieci nierzadko radzi sobie z tym w zupełnie inny sposób. Terr uważa, że dzieci o wiele rzadziej paraliżuje doznany uraz, ponieważ powracają do niego i odgrywają sytuację, w której do niego doszło, w swoich fantazjach i zabawach.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5433-5439 | Added on Tuesday, 3 January 2017 02:09:07
+
+Jednym ze sposobów spontanicznego wyleczenia, przynajmniej u dzieci, wydają się zabawy i gry, takie jak zabawa w Purdy’ego. Częste uczestniczenie w takich grach pozwala dzieciom na bezpieczne ponowne przeżycie sytuacji, które wywołały uraz. Tego rodzaju zabawy otwierają dwie możliwe drogi dojścia do stanu normalnego: z jednej strony, powtarza się utrwalone w pamięci straszne wydarzenia w kontekście wywołującym tylko lekki niepokój, pozbawiając je w ten sposób powodującej przewrażliwienie i uczulenie siły oddziaływania oraz umożliwiając wyuczenie się zespołu nieodnawiających urazu, skojarzonych z nimi reakcji. Z drugiej strony, dzieci nadają w swej wyobraźni, a więc w swych umysłach, inne, lepsze zakończenie tragedii – niekiedy, bawiąc się w Purdy’ego, dzieci zabijają go, wytwarzając u siebie poczucie panowania nad sytuacją, w której w rzeczywistości były zupełnie bezradne.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5456-5460 | Added on Tuesday, 3 January 2017 02:10:22
+
+Do utrwalonego w ciele migdałowatym obrazu najlepiej jest dotrzeć przez sztukę, która sama w sobie jest środkiem wyrazu tego, co nieświadome. Mózg emocjonalny jest znakomicie wyczulony na znaczenia symboliczne i na tryb przekazu, który Freud określił mianem „procesu pierwotnego”: metafory, mity, opowiadania, dzieła sztuk pięknych. Z drogi tej często korzysta się przy leczeniu dzieci cierpiących na wstrząs pourazowy. Czasami sztuka może otworzyć przed dziećmi możliwość opowiadania o chwilach grozy, o których w innych okolicznościach bałyby się mówić.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5551-5553 | Added on Wednesday, 4 January 2017 01:34:46
+
+Jeśli można uleczyć wstrząs pourazowy, to można też usunąć owe mniej widoczne blizny emocjonalne, które ma wielu z nas. Jest to zadaniem psychoterapii. A inteligencja emocjonalna pomaga umiejętnie postępować z osobami obarczonymi ciężarem urazowych reakcji wyuczonych w przeszłości.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5707-5710 | Added on Thursday, 5 January 2017 03:04:37
+
+Odkrył on, że osoby, u których lewy płat czołowy wykazuje większą aktywność niż prawy, mają pogodne i wesołe usposobienie; na ogół cieszą ich kontakty z innymi i to, co przynosi życie, dochodzą do siebie po porażkach i niepowodzeniach, tak jak moja ciotka June. Natomiast osoby, u których bardziej aktywnie pracuje prawy płat czołowy, są podatne na przykre uczucia i przypływy złego nastroju oraz łatwo zrażają się trudnościami; wydają się bez ustanku cierpieć, ponieważ nie mogą otrząsnąć się ze zmartwień i przygnębienia.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5752-5756 | Added on Thursday, 5 January 2017 03:09:36
+
+Mniej więcej jedno na troje dzieci, które przychodzą na świat ze wszelkimi oznakami nadmiernie pobudliwego ciała migdałowatego, wyzbywa się nieśmiałości, jeszcze zanim pójdzie do przedszkola7. Z obserwacji tych niegdyś lękliwych dzieci prowadzonych w ich domach jasno wynika, że kluczową rolę w tym, czy nieśmiałe od urodzenia dziecko nabierze z czasem odwagi, czy też dalej stronić będzie od wszelkich nowości i wpadać w przygnębienie z powodu każdego wyzwania, któremu musi sprostać, odgrywają jego rodzice, a szczególnie matka.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5756-5761 | Added on Thursday, 5 January 2017 03:10:23
+
+Zespół Kagana stwierdził, że niektóre matki hołdują filozofii, zgodnie z którą powinny chronić swoje dzieci przed wszystkim, co wprawia je w zły nastrój, natomiast inne uważają, że dużo ważniejsze jest nauczenie dzieci, jak radzić sobie w takich przygnębiających sytuacjach, a zatem jak oswoić się z tym, że w życiu zmagać się trzeba z różnymi problemami. Postawa opiekuńcza zdawała się potęgować bojaźliwość, prawdopodobnie dlatego, że pozbawiała dzieci okazji nauczenia się, jak mają pokonywać nurtujące je obawy. Natomiast filozofia wychowania opierająca się na zasadzie „oswojenia dzieci z trudnościami” zdawała się pomagać im w przełamaniu lęku.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5779-5780 | Added on Thursday, 5 January 2017 03:13:09
+
+„Okazuje się, że matki, które chronią swoje bardzo wrażliwe dzieci przed frustracją i lękiem w nadziei, że będzie miało to dobroczynne skutki, zdają się jeszcze bardziej pogłębiać niepewność dziecka i przynosić zupełnie odwrotny skutek”
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5878-5881 | Added on Wednesday, 11 January 2017 01:40:32
+
+z najważniejszych lekcji emocjonalnych, które przyswajamy sobie w niemowlęctwie i pogłębiamy w późniejszych latach dzieciństwa, jest sposób uspokajania się w chwilach zdenerwowania czy niepokoju. W pierwszych miesiącach życia płaczące niemowlę uspokaja matka, biorąc je na ręce i huśtając, dopóki się nie uciszy. Zdaniem niektórych teoretyków to biologiczne dostrojenie się pomaga dziecku w uczeniu się, jak może to zrobić samo
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5894-5899 | Added on Wednesday, 11 January 2017 01:43:00
+
+„Rodzice łagodzą napięcie nerwu błędnego [miarę łatwości jego pobudzenia] u swych dzieci, udzielając im lekcji ze sfery emocji: rozmawiając z nimi o ich uczuciach i dając wskazówki, jak należy je rozumieć, nie krytykując ich i nie przybierając postawy sędziowskiej, rozwiązując problemy wynikające z kłopotów emocjonalnych, radząc im, co należy robić w różnych sytuacjach, na przykład czy zaatakować, czy wycofać się w chwili smutku”. Jeśli rodzice robili to dobrze, to dzieci potrafiły lepiej tamować aktywność nerwu błędnego pobudzającego ciało migdałowate do mobilizowania organizmu do walki lub ucieczki za pomocą sterowanego przez nie napływu hormonów i w konsekwencji zachowywały się lepiej,
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 5913-5915 | Added on Wednesday, 11 January 2017 01:44:53
+
+Zwyczaje te zależą od tego, czy rodzice rozumieją, uznają i zaspokajają emocjonalne potrzeby dziecka, czy narzucając mu pewną dyscyplinę, kierują się empatią, czy też są tak zajęci swoimi sprawami, że ignorują zły nastrój dziecka albo w przypływie złego humoru drą się na nie i biją je.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6031-6033 | Added on Friday, 20 January 2017 01:46:39
+
+Łączy ich jednak z chuliganami jedno – swoista wada percepcji: i pierwsi, i drudzy doszukują się obrazy tam, gdzie jej nie było, wyobrażając sobie, że rówieśnicy odnoszą się do nich bardziej wrogo, niż dzieje się to w rzeczywistości.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6045-6050 | Added on Friday, 20 January 2017 01:48:57
+
+To pochopne osądzanie potwierdza głębokie skrzywienie postrzeżeniowe u osób, które są niezwykle agresywne: działają one na podstawie założenia o wrogości lub zagrożeniu, poświęcając zbyt mało uwagi temu, co się rzeczywiście dzieje. Kiedy tylko założą, że ktoś im zagraża, natychmiast rzucają się do ataku. Jeśli na przykład agresywny chłopiec gra w warcaby z innym, który przesunie pionek poza kolejnością, to zinterpretuje on ten ruch jako „oszukiwanie”, nie próbując nawet sprawdzić, czy partner nie zrobił tego przez pomyłkę. Zakłada od razu nie niewinność, lecz złą wolę drugiej strony, a jego automatyczną reakcją jest wrogość.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6174-6178 | Added on Sunday, 22 January 2017 01:22:12
+
+Dane z wielu krajów świadczą o tym, że świat zaczyna ogarniać istna epidemia depresji, która zatacza coraz szersze kręgi w miarę przyswajania sobie przez różne narody nowoczesnego stylu życia. Od początku bieżącego stulecia każde kolejne pokolenie narażone jest na większe niż pokolenie ich rodziców ryzyko wpadnięcia w głęboką depresję – nie w zwykły smutek, lecz w paraliżującą wszelkie działania apatię, przygnębienie i litość nad samym sobą23.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6196-6199 | Added on Sunday, 22 January 2017 01:22:53
+
+„Nastąpiła straszliwa erozja rodziny – podwoiła się liczba rozwodów, drastycznie zmalał czas, który rodzice poświęcają dzieciom, zwiększyła się mobilność społeczna. Dorasta się, nie znając swojej rodziny. Utrata tych źródeł będących stałymi punktami odniesienia przy określaniu własnej tożsamości oznacza większą podatność na depresję”.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6204-6209 | Added on Sunday, 22 January 2017 01:24:52
+
+„Od trzydziestu czy czterdziestu lat jesteśmy świadkami wzrostu indywidualizmu i zaniku wiary religijnej oraz zmniejszania się oparcia, które dawniej znajdowaliśmy w naszej społeczności i rodzinie. Oznacza to utratę źródeł, w których szukamy pomocy i otuchy w chwilach niepowodzeń i porażek. Jeśli postrzegasz porażkę jako coś trwałego, co położy się na zawsze cieniem na całym twoim życiu, to chwilowe niepowodzenie może stać się dla ciebie stałym źródłem braku nadziei. Ale jeśli masz szersze horyzonty, trwały punkt oparcia, taki jak wiara w Boga i życie wieczne, to kiedy stracisz pracę, traktujesz to jako przejściową, chwilową porażkę”.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6219-6221 | Added on Sunday, 22 January 2017 01:26:13
+
+stwierdzono, że okresy nawet lekkiej depresji u dziecka mogą zapowiadać poważniejszą depresję w późniejszych latach26.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6240-6245 | Added on Sunday, 22 January 2017 01:29:40
+
+Przygnębienie czy smutek, który odczuwają takie dzieci, sprawia, że unikają one kontaktów towarzyskich, nie inicjując ich albo spoglądając w bok, kiedy inne dziecko próbuje wciągnąć je do zabawy, co dla próbującego jest znakiem odmowy. Końcowy efekt jest taki, że ogarnięte depresją dzieci są osamotnione na boisku czy placu zabaw. Ta luka w ich doświadczeniach interpersonalnych oznacza, że pozbawione zostają tego, czego normalnie mogłyby się nauczyć w różnorodnych sytuacjach zdarzających się podczas zabawy. W efekcie są zapóźnione społecznie i emocjonalnie i mają mnóstwo do nadrobienia w tych sferach, kiedy depresja minie29.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6257-6258 | Added on Sunday, 22 January 2017 01:31:44
+
+leżące u podłoża depresji poczucie bezradności i beznadziei wydają się wywoływać i nasilać pesymistyczne sposoby interpretowania niepowodzeń.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6261-6262 | Added on Sunday, 22 January 2017 01:32:41
+
+Dowodów na to dostarczają badania nad przekonaniami dzieci o ich możliwości wpływania na to, co zdarza się w ich życiu, na przykład o możliwości zmienienia aktualnego stanu rzeczy na lepszy.
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6265-6265 | Added on Sunday, 22 January 2017 01:32:50
+
+to poczucie bezradności najsilniejsze jest u dzieci ogarniętych największą depresją
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6296-6297 | Added on Sunday, 22 January 2017 01:36:48
+
+wszelkie znaki na niebie i ziemi wskazują, że nauczenie dzieci bardziej konstruktywnych metod patrzenia na piętrzące się przed nimi trudności obniża ryzyko ich pogrążenia się w depresji[
+==========
+Inteligencja emocjonalna (Daniel Goleman)
+- Your Highlight at location 6360-6362 | Added on Thursday, 26 January 2017 01:26:16
+
+Badania ujawniły, że łańcuch przyczynowo-skutkowy prowadzący do zaburzeń łaknienia zapoczątkowuje dorastanie w społeczeństwie, które za ideał urody kobiecej uważa nienaturalną szczupłość, wręcz chudość.
+==========
