@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import {Table, Column, Cell} from 'fixed-data-table';
 import 'fixed-data-table/dist/fixed-data-table.css'
+import { Button } from 'react-bootstrap';
 
 class App extends Component {
   constructor() {
@@ -61,6 +62,7 @@ class App extends Component {
               />
 
             </Table>
+            <Button bsStyle="success">Success</Button>
         </div>
     );
   }
