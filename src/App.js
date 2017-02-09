@@ -10,6 +10,8 @@ class App extends Component {
       highlights: [],
       filterBooksText: '',
     };
+
+    this.filterBooksByText = this.filterBooksByText.bind(this);
   } 
 
   componentDidMount() {
@@ -35,8 +37,8 @@ class App extends Component {
       });
   }
 
-  filterBooksByText() {
-    
+  filterBooksByText(e) {
+    this.setState({filterBooksText: e.target.value});    
   }
 
   render() {
@@ -58,7 +60,7 @@ class App extends Component {
         </Col>
         <Col xs={2}>
           <ListGroup>
-          {this.state.books.map((book) => {
+          {this.state.books.filter( (book) => book.name.toLowerCase().includes(this.state.filterBooksText.toLowerCase()) ).map((book) => {
             return <ListGroupItem 
                     key={book.id} 
                     onClick={() => this.updateHighlights(book.id)} 
