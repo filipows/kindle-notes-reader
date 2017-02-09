@@ -1,5 +1,5 @@
 [{
-    "book": "﻿Node.js, MongoDB, and AngularJS Web Development (Developer's Library) (Brad Dayley)",
+    "book": "Wszystko Za Zycie (Jon Krakauer)",
     "creation_date": "2 May 2015 23:36:51",
     "body": "Write operations are atomic, only one write at a time, at the document level in MongoDB. This means that only one process can be updating a single document or a single collection at a time. Therefore, writing to documents that are denormalized is atomic."
 },

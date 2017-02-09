@@ -1,23 +1,20 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import {Table, Column, Cell} from 'fixed-data-table';
-import 'fixed-data-table/dist/fixed-data-table.css'
-import { Button } from 'react-bootstrap';
+import { Col, ListGroup, ListGroupItem } from 'react-bootstrap';
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
-      highlights: []
+      books: []
     };
   } 
 
   componentDidMount() {
-    fetch('http://localhost:3000/clippings.json')
+    fetch('http://localhost:3000/books.json')
       .then((response) => response.json())
-      .then((highlights) => {
-        this.setState({highlights})
+      .then((books) => {
+        this.setState({books})
       })
       .catch((error) => {
         console.error(error);
@@ -27,43 +24,15 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Table
-              rowsCount={this.state.highlights.length}
-              rowHeight={100}
-              headerHeight={50}
-              width={1000}
-              maxHeight={500}>
-              <Column
-                header={<Cell>Book</Cell>}
-                cell={props => (
-                  <Cell {...props}>
-                    {this.state.highlights[props.rowIndex].book}
-                  </Cell>
-                )}
-                width={200}
-              />
-              <Column
-                header={<Cell>Date</Cell>}
-                cell={props => (
-                  <Cell {...props}>
-                    {this.state.highlights[props.rowIndex].creation_date}
-                  </Cell>
-                )}
-                width={200}
-              />
-              <Column
-                header={<Cell>Highlight</Cell>}
-                cell={props => (
-                  <Cell {...props}>
-                    {this.state.highlights[props.rowIndex].body}
-                  </Cell>
-                )}
-                width={600}
-              />
-
-            </Table>
-            <Button bsStyle="success">Success</Button>
-        </div>
+        <Col md={2}>
+          <ListGroup>
+          {this.state.books.map((book) => {
+            return <ListGroupItem key={book.id} href="#{book.name}">{book.name}</ListGroupItem>
+          })}
+          </ListGroup>
+        </Col>
+        <Col md={10}>cytaty</Col>
+      </div>
     );
   }
 }
