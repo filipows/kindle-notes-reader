@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
-import { Col, ListGroup, ListGroupItem } from 'react-bootstrap';
+import { Col, ListGroup, ListGroupItem, FormGroup, InputGroup, FormControl, Glyphicon } from 'react-bootstrap';
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
       books: [],
-      highlights: []
+      highlights: [],
+      filterBooksText: '',
     };
   } 
 
@@ -23,36 +24,54 @@ class App extends Component {
   }
 
   updateHighlights(bookId) {
-    fetch('http://localhost:3000/books_1.json')
+    const url = `http://localhost:3000/book${bookId}.json`;
+    fetch(url)
       .then((response) => response.json())
       .then((highlights) => {
-        // this.setState({highlights: highlights})
+        this.setState({highlights: highlights})
       })
       .catch((error) => {
         console.error(error);
       });
   }
 
+  filterBooksByText() {
+    
+  }
 
   render() {
     return (
       <div>
-        <Col md={2}>
+        <Col xs={12}>
+          <FormGroup>
+            <InputGroup>
+              <FormControl 
+                type="text" 
+                value={this.state.filterBooksText} 
+                placeholder="Type to filter books..."
+                onChange={this.filterBooksByText} />
+              <InputGroup.Addon>
+                <Glyphicon glyph="search" />
+              </InputGroup.Addon>
+            </InputGroup>
+          </FormGroup>
+        </Col>
+        <Col xs={2}>
           <ListGroup>
           {this.state.books.map((book) => {
             return <ListGroupItem 
                     key={book.id} 
                     onClick={() => this.updateHighlights(book.id)} 
-                    href="#{book.name}">
+                    >
                       {book.name}
                     </ListGroupItem>
           })}
           </ListGroup>
         </Col>
-        <Col md={10}>cytaty
+        <Col xs={10}>cytaty
           <ListGroup>
             {this.state.highlights.map((highlight) => {
-              return <ListGroupItem href="#{book.name}">{highlight.body}</ListGroupItem>
+              return <ListGroupItem key={highlight.id}>{highlight.body}</ListGroupItem>
             })}
           </ListGroup>
         </Col>
