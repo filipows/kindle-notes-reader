@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import './App.css';
 import { Col, ListGroup, ListGroupItem, FormGroup, InputGroup, FormControl, Glyphicon } from 'react-bootstrap';
 
+import {ApiService} from './services';
+
+
 class App extends Component {
   constructor() {
     super();
@@ -12,29 +15,15 @@ class App extends Component {
     };
 
     this.filterBooksByText = this.filterBooksByText.bind(this);
+    this.apiService = new ApiService(); //TODO: consider using static api methods
   } 
 
   componentDidMount() {
-    fetch('/books.json')
-      .then((response) => response.json())
-      .then((books) => {
-        this.setState({books})
-      })
-      .catch((error) => {
-        console.error(error);
-      });
+    this.apiService.getBooks().then((books) => this.setState({books}))
   }
 
   updateHighlights(bookId) {
-    const url = `/book${bookId}.json`;
-    fetch(url)
-      .then((response) => response.json())
-      .then((highlights) => {
-        this.setState({highlights: highlights})
-      })
-      .catch((error) => {
-        console.error(error);
-      });
+    this.apiService.getHighlights(bookId).then((highlights) => this.setState({highlights}));
   }
 
   filterBooksByText(e) {
