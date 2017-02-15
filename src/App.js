@@ -15,7 +15,7 @@ class App extends Component {
   } 
 
   componentDidMount() {
-    fetch('http://localhost:3000/books.json')
+    fetch('/books.json')
       .then((response) => response.json())
       .then((books) => {
         this.setState({books})
@@ -26,7 +26,7 @@ class App extends Component {
   }
 
   updateHighlights(bookId) {
-    const url = `http://localhost:3000/book${bookId}.json`;
+    const url = `/book${bookId}.json`;
     fetch(url)
       .then((response) => response.json())
       .then((highlights) => {
