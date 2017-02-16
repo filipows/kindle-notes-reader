@@ -3,12 +3,8 @@
 const API_URL = '/api'
 
 export class ApiService {
-    constructor(){
-        this._apiUrl = API_URL;
-    }
-
-    getBooks() {
-        return fetch(`${this._apiUrl}/books.json`)
+    static getBooks() {
+        return fetch(`${API_URL}/books.json`)
             .then((response) => response.json())
             .catch((error) => {
                 //console.error(error);  //TODO: uncomment
@@ -16,8 +12,8 @@ export class ApiService {
             });
     }
 
-    getHighlights(bookId) {
-        return fetch(`${this._apiUrl}/book${bookId}.json`)
+    static getHighlights(bookId) {
+        return fetch(`${API_URL}/book${bookId}.json`)
             .then((response) => response.json())
             .catch((error) => {
                 // console.error(error);  //TODO: uncomment

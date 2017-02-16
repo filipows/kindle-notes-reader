@@ -1,9 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
-import { Col, ListGroup, ListGroupItem, FormGroup, InputGroup, FormControl, Glyphicon } from 'react-bootstrap';
-
+import { Col } from 'react-bootstrap';
 import {ApiService} from './services';
 
+
+//TODO: how to do something like this?
+// import {BookList, HighlightList, SearchBar} from './components';
+import BookList from './components/BookList';
+import HighlightList from './components/HighlightList';
+import SearchBar from './components/SearchBar';
 
 class App extends Component {
   constructor() {
@@ -15,15 +20,14 @@ class App extends Component {
     };
 
     this.filterBooksByText = this.filterBooksByText.bind(this);
-    this.apiService = new ApiService(); //TODO: consider using static api methods
   } 
 
   componentWillMount() {
-    this.apiService.getBooks().then((books) => this.setState({books}))
+    ApiService.getBooks().then((books) => this.setState({books}))
   }
 
   updateHighlights(bookId) {
-    this.apiService.getHighlights(bookId).then((highlights) => this.setState({highlights}));
+    ApiService.getHighlights(bookId).then((highlights) => this.setState({highlights}));
   }
 
   filterBooksByText(e) {
@@ -41,40 +45,16 @@ class App extends Component {
     return (
       <div>
         <Col xs={12}>
-          <FormGroup>
-            <InputGroup>
-              <FormControl 
-                type="text" 
-                value={this.state.filterBooksText} 
-                placeholder="Type to filter books..."
-                onChange={this.filterBooksByText} 
-                className="js-search-input"
-              />
-              <InputGroup.Addon>
-                <Glyphicon glyph="search" />
-              </InputGroup.Addon>
-            </InputGroup>
-          </FormGroup>
+          <SearchBar 
+            value={this.state.filterBooksText}
+            placeholder="Type to filter books..."
+            onChange={this.filterBooksByText.bind(this)}/>
         </Col>
         <Col xs={2}>
-          <ListGroup className="js-books">
-            {books.map( book =>
-              <ListGroupItem 
-                key={book.id} 
-                onClick={() => this.updateHighlights(book.id)}
-                className="js-book"
-              >
-                {book.name}
-              </ListGroupItem>
-            )}
-            </ListGroup>
+          <BookList books={books} onClick={this.updateHighlights.bind(this)}/>
         </Col>
         <Col xs={10}>cytaty
-          <ListGroup>
-            {this.state.highlights.map((highlight) => {
-              return <ListGroupItem key={highlight.id}>{highlight.body}</ListGroupItem>
-            })}
-          </ListGroup>
+          <HighlightList highlights={this.state.highlights}/>
         </Col>
       </div>
     );
