@@ -8,7 +8,7 @@ export class ApiService {
     }
 
     getBooks() {
-        return fetch(`${this._apiUrl}/books`)
+        return fetch(`${this._apiUrl}/books.json`)
             .then((response) => response.json())
             .catch((error) => {
                 //console.error(error);  //TODO: uncomment
@@ -16,7 +16,7 @@ export class ApiService {
     }
 
     getHighlights(bookId) {
-        return fetch(`${this._apiUrl}/book/${bookId}`)
+        return fetch(`${this._apiUrl}/book${bookId}.json`)
             .then((response) => response.json())
             .catch((error) => {
                 // console.error(error);  //TODO: uncomment
