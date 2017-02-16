@@ -18,7 +18,7 @@ class App extends Component {
     this.apiService = new ApiService(); //TODO: consider using static api methods
   } 
 
-  componentDidMount() {
+  componentWillMount() {
     this.apiService.getBooks().then((books) => this.setState({books}))
   }
 
@@ -31,6 +31,13 @@ class App extends Component {
   }
 
   render() {
+    let books = this.state.books;
+    if (this.state.filterBooksText) {
+      books = books.filter( book => 
+        book.name.toLowerCase()
+        .includes(this.state.filterBooksText.toLowerCase()));
+    }
+
     return (
       <div>
         <Col xs={12}>
@@ -49,15 +56,14 @@ class App extends Component {
         </Col>
         <Col xs={2}>
           <ListGroup>
-          {this.state.books.filter( (book) => book.name.toLowerCase().includes(this.state.filterBooksText.toLowerCase()) ).map((book) => {
-            return <ListGroupItem 
-                    key={book.id} 
-                    onClick={() => this.updateHighlights(book.id)} 
-                    >
-                      {book.name}
-                    </ListGroupItem>
-          })}
-          </ListGroup>
+            {books.map( book =>
+              <ListGroupItem 
+                key={book.id} 
+                onClick={() => this.updateHighlights(book.id)}>
+                {book.name}
+              </ListGroupItem>
+            )}
+            </ListGroup>
         </Col>
         <Col xs={10}>cytaty
           <ListGroup>

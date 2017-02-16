@@ -12,6 +12,7 @@ export class ApiService {
             .then((response) => response.json())
             .catch((error) => {
                 //console.error(error);  //TODO: uncomment
+                return [];
             });
     }
 
