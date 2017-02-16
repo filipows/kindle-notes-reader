@@ -47,7 +47,9 @@ class App extends Component {
                 type="text" 
                 value={this.state.filterBooksText} 
                 placeholder="Type to filter books..."
-                onChange={this.filterBooksByText} />
+                onChange={this.filterBooksByText} 
+                className="js-search-input"
+              />
               <InputGroup.Addon>
                 <Glyphicon glyph="search" />
               </InputGroup.Addon>
@@ -55,11 +57,13 @@ class App extends Component {
           </FormGroup>
         </Col>
         <Col xs={2}>
-          <ListGroup>
+          <ListGroup className="js-books">
             {books.map( book =>
               <ListGroupItem 
                 key={book.id} 
-                onClick={() => this.updateHighlights(book.id)}>
+                onClick={() => this.updateHighlights(book.id)}
+                className="js-book"
+              >
                 {book.name}
               </ListGroupItem>
             )}
