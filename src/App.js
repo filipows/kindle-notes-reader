@@ -1,14 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
 import { Col } from 'react-bootstrap';
+
 import {ApiService} from './services';
-
-
-//TODO: how to do something like this?
-// import {BookList, HighlightList, SearchBar} from './components';
-import BookList from './components/BookList';
-import HighlightList from './components/HighlightList';
-import SearchBar from './components/SearchBar';
+import {BookList, HighlightList, SearchBar}  from './components';
 
 class App extends Component {
   constructor() {
