@@ -20,6 +20,7 @@ class App extends Component {
     };
 
     this.filterBooksByText = this.filterBooksByText.bind(this);
+    this.updateHighlights = this.updateHighlights.bind(this);
   } 
 
   componentWillMount() {
@@ -48,10 +49,10 @@ class App extends Component {
           <SearchBar 
             value={this.state.filterBooksText}
             placeholder="Type to filter books..."
-            onChange={this.filterBooksByText.bind(this)}/>
+            onChange={this.filterBooksByText}/>
         </Col>
         <Col xs={2}>
-          <BookList books={books} onClick={this.updateHighlights.bind(this)}/>
+          <BookList books={books} onClick={this.updateHighlights}/>
         </Col>
         <Col xs={10}>cytaty
           <HighlightList highlights={this.state.highlights}/>

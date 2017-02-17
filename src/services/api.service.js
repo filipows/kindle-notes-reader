@@ -1,5 +1,3 @@
-'use strict';
-
 const API_URL = '/api'
 
 export class ApiService {
