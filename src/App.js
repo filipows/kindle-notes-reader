@@ -44,7 +44,8 @@ class App extends Component {
           <SearchBar 
             value={this.state.filterBooksText}
             placeholder="Type to filter books..."
-            onChange={this.filterBooksByText}/>
+            onChange={this.filterBooksByText}
+          />
         </Col>
         <Col xs={2}>
           <BookList books={books} onClick={this.updateHighlights}/>

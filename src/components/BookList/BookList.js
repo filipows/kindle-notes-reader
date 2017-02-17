@@ -1,5 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component, PropTypes } from 'react';
 import {ListGroup, ListGroupItem} from 'react-bootstrap';
+
+const propTypes = {
+  books: PropTypes.array.isRequired,
+  onClick: PropTypes.func.isRequired
+};
 
 class BookList extends Component {
   render() {
@@ -17,5 +22,7 @@ class BookList extends Component {
     );
   }
 }
+
+BookList.propTypes = propTypes;
 
 export default BookList;
