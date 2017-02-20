@@ -1,19 +1,26 @@
 import React, { Component } from 'react';
 import { ListGroup, ListGroupItem } from 'react-bootstrap';
-import { Link } from 'react-router'
+import { browserHistory } from 'react-router'
 
 class BookListElement extends Component {
+  constructor(props){
+    super(props);
+    this.bookListElementClickCallback = this.bookListElementClickCallback.bind(this);
+    this.toPath = `/books/${this.props.bookId}`;
+  }
+
+  bookListElementClickCallback(event) {
+    browserHistory.push(this.toPath);
+    return true;
+  }
 
   render() {
     let toPath = `/books/${this.props.bookId}`;
-    let isActive = this.context.router.isActive(toPath, true),
+    let isActive = this.context.router.isActive(this.toPath, true),
       className = isActive ? "active" : "";
     return (
-
-      <ListGroupItem className={className}>
-        <Link to={toPath}>
+      <ListGroupItem className={className} onClick={this.bookListElementClickCallback}>
           {this.props.children}
-        </Link>
       </ListGroupItem>
     );
   }
@@ -22,6 +29,5 @@ class BookListElement extends Component {
 BookListElement.contextTypes = {
   router: React.PropTypes.object
 };
-
 
 export default BookListElement;

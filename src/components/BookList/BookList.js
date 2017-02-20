@@ -5,7 +5,6 @@ import { BookListElement } from './../../components';
 
 const propTypes = {
   books: PropTypes.array.isRequired,
-  onClick: PropTypes.func.isRequired
 };
 
 class BookList extends Component {

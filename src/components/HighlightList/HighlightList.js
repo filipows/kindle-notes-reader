@@ -1,10 +1,6 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import { ListGroup, ListGroupItem } from 'react-bootstrap';
 import { ApiService } from './../../services';
-
-const propTypes = {
-  highlights: PropTypes.array.isRequired
-};
 
 class HighlightList extends Component {
   constructor() {
@@ -12,8 +8,6 @@ class HighlightList extends Component {
     this.state = {
       highlights: []
     };
-
-    this.updateHighlights = this.updateHighlights.bind(this);
   }
 
   componentWillReceiveProps(nextProps){
@@ -40,7 +34,5 @@ class HighlightList extends Component {
     );
   }
 }
-
-HighlightList.propTypes = propTypes;
 
 export default HighlightList;
