@@ -50,8 +50,9 @@ class App extends Component {
         <Col xs={2}>
           <BookList books={books} onClick={this.updateHighlights}/>
         </Col>
-        <Col xs={10}>cytaty
-          <HighlightList highlights={this.state.highlights}/>
+        <Col xs={10}>
+          {this.props.children || "Click on the book to see highlights."}
+          {/*<HighlightList highlights={this.state.highlights}/>*/}
         </Col>
       </div>
     );
