@@ -1,13 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
 import { Col } from 'react-bootstrap';
+
 import {ApiService} from './services';
-
-
-//TODO: how to do something like this?
-// import {BookList, HighlightList, SearchBar} from './components';
-import BookList from './components/BookList';
-import SearchBar from './components/SearchBar';
+import {BookList, HighlightList, SearchBar}  from './components';
 
 class App extends Component {
   constructor() {
@@ -48,7 +44,8 @@ class App extends Component {
           <SearchBar 
             value={this.state.filterBooksText}
             placeholder="Type to filter books..."
-            onChange={this.filterBooksByText}/>
+            onChange={this.filterBooksByText}
+          />
         </Col>
         <Col xs={2}>
           <BookList books={books} onClick={this.updateHighlights}/>

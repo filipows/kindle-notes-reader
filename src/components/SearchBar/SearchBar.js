@@ -1,6 +1,14 @@
-import React, { Component } from 'react';
+import React, { Component, PropTypes } from 'react';
 import { FormGroup, InputGroup, FormControl, Glyphicon } from 'react-bootstrap';
 
+const propTypes = {
+  value: PropTypes.string.isRequired,
+  placeholder: PropTypes.string
+};
+
+const defaultProps = {
+  placeholder: 'Type to filter...'
+};
 
 class SearchBar extends Component {
   render() {
@@ -22,5 +30,9 @@ class SearchBar extends Component {
     );
   }
 }
+
+SearchBar.propTypes = propTypes;
+SearchBar.defaultProps = defaultProps;
+
 
 export default SearchBar;
