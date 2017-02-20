@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "eslint-config-airbnb": "^14.1.0",
     "react-scripts": "0.8.5"
   },
   "dependencies": {
