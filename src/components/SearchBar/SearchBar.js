@@ -3,11 +3,11 @@ import { FormGroup, InputGroup, FormControl, Glyphicon } from 'react-bootstrap';
 
 const propTypes = {
   value: PropTypes.string.isRequired,
-  placeholder: PropTypes.string
+  placeholder: PropTypes.string,
 };
 
 const defaultProps = {
-  placeholder: 'Type to filter...'
+  placeholder: 'Type to filter...',
 };
 
 class SearchBar extends Component {
@@ -15,11 +15,11 @@ class SearchBar extends Component {
     return (
       <FormGroup>
         <InputGroup>
-          <FormControl 
-            type="text" 
-            value={this.props.value} 
+          <FormControl
+            type="text"
+            value={this.props.value}
             placeholder={this.props.placeholder}
-            onChange={this.props.onChange} 
+            onChange={this.props.onChange}
             className="js-search-input"
           />
           <InputGroup.Addon>

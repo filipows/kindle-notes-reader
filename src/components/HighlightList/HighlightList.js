@@ -3,39 +3,37 @@ import { ListGroup, ListGroupItem } from 'react-bootstrap';
 import { ApiService } from './../../services';
 
 const propTypes = {
-  highlights: PropTypes.array.isRequired
+  highlights: PropTypes.array.isRequired,
 };
 
 class HighlightList extends Component {
   constructor() {
     super();
     this.state = {
-      highlights: []
+      highlights: [],
     };
 
     this.updateHighlights = this.updateHighlights.bind(this);
   }
 
-  componentWillReceiveProps(nextProps){
-    let bookId = nextProps.params.bookId;
+  componentWillReceiveProps(nextProps) {
+    const bookId = nextProps.params.bookId;
     this.updateHighlights(bookId);
   }
 
-  componentWillMount(){
-    let bookId = this.props.params.bookId;
+  componentWillMount() {
+    const bookId = this.props.params.bookId;
     this.updateHighlights(bookId);
   }
 
   updateHighlights(bookId) {
-    ApiService.getHighlights(bookId).then((highlights) => this.setState({ highlights }));
+    ApiService.getHighlights(bookId).then(highlights => this.setState({ highlights }));
   }
 
   render() {
     return (
       <ListGroup>
-        {this.state.highlights.map((highlight) => {
-          return <ListGroupItem key={highlight.id}>{highlight.body}</ListGroupItem>
-        })}
+        {this.state.highlights.map(highlight => <ListGroupItem key={highlight.id}>{highlight.body}</ListGroupItem>)}
       </ListGroup>
     );
   }

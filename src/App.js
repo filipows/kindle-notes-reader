@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import { Col } from 'react-bootstrap';
 
-import {ApiService} from './services';
-import {BookList, HighlightList, SearchBar}  from './components';
+import { ApiService } from './services';
+import { BookList, HighlightList, SearchBar } from './components';
 
 class App extends Component {
   constructor() {
@@ -16,24 +16,24 @@ class App extends Component {
 
     this.filterBooksByText = this.filterBooksByText.bind(this);
     this.updateHighlights = this.updateHighlights.bind(this);
-  } 
+  }
 
   componentWillMount() {
-    ApiService.getBooks().then((books) => this.setState({books}))
+    ApiService.getBooks().then(books => this.setState({ books }));
   }
 
   updateHighlights(bookId) {
-    ApiService.getHighlights(bookId).then((highlights) => this.setState({highlights}));
+    ApiService.getHighlights(bookId).then(highlights => this.setState({ highlights }));
   }
 
   filterBooksByText(e) {
-    this.setState({filterBooksText: e.target.value});    
+    this.setState({ filterBooksText: e.target.value });
   }
 
   render() {
     let books = this.state.books;
     if (this.state.filterBooksText) {
-      books = books.filter( book => 
+      books = books.filter(book =>
         book.name.toLowerCase()
         .includes(this.state.filterBooksText.toLowerCase()));
     }
@@ -41,18 +41,18 @@ class App extends Component {
     return (
       <div>
         <Col xs={12}>
-          <SearchBar 
+          <SearchBar
             value={this.state.filterBooksText}
             placeholder="Type to filter books..."
             onChange={this.filterBooksByText}
           />
         </Col>
         <Col xs={2}>
-          <BookList books={books} onClick={this.updateHighlights}/>
+          <BookList books={books} onClick={this.updateHighlights} />
         </Col>
         <Col xs={10}>
-          {this.props.children || "Click on the book to see highlights."}
-          {/*<HighlightList highlights={this.state.highlights}/>*/}
+          {this.props.children || 'Click on the book to see highlights.'}
+          {/* <HighlightList highlights={this.state.highlights}/>*/}
         </Col>
       </div>
     );
