@@ -8,13 +8,7 @@ const propTypes = {
 };
 
 class BookList extends Component {
-  constructor(props){
-    super(props);
-
-    this.onBookLinkClickCallback.bind(this);
-  }
-
-  onBookLinkClickCallback(e) {
+  onBookLinkClickCallback = (e) => {
     let isActive = e.currentTarget.className == "active";
     let classes = e.currentTarget.children[0].classList;
   }

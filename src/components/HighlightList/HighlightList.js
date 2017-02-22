@@ -7,13 +7,8 @@ const propTypes = {
 };
 
 class HighlightList extends Component {
-  constructor() {
-    super();
-    this.state = {
+  state = {
       highlights: []
-    };
-
-    this.updateHighlights = this.updateHighlights.bind(this);
   }
 
   componentWillReceiveProps(nextProps){
@@ -26,7 +21,7 @@ class HighlightList extends Component {
     this.updateHighlights(bookId);
   }
 
-  updateHighlights(bookId) {
+  updateHighlights = (bookId) => {
     ApiService.getHighlights(bookId).then((highlights) => this.setState({ highlights }));
   }
 

@@ -6,27 +6,22 @@ import {ApiService} from './services';
 import {BookList, HighlightList, SearchBar}  from './components';
 
 class App extends Component {
-  constructor() {
-    super();
-    this.state = {
-      books: [],
-      highlights: [],
-      filterBooksText: '',
-    };
+  state = {
+    books: [],
+    highlights: [],
+    filterBooksText: '',
+  }
 
-    this.filterBooksByText = this.filterBooksByText.bind(this);
-    this.updateHighlights = this.updateHighlights.bind(this);
-  } 
 
   componentWillMount() {
     ApiService.getBooks().then((books) => this.setState({books}))
   }
 
-  updateHighlights(bookId) {
+  updateHighlights = (bookId) => {
     ApiService.getHighlights(bookId).then((highlights) => this.setState({highlights}));
   }
 
-  filterBooksByText(e) {
+  filterBooksByText = (e) => {
     this.setState({filterBooksText: e.target.value});    
   }
 
